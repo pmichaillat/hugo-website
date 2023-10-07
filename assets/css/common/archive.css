@@ -1,0 +1,47 @@
+.archive-posts {
+    width: 100%;
+}
+
+.archive-year {
+    margin-top: 20px;
+}
+
+.archive-year-header {
+    font-size: 1.4rem;
+    font-weight: var(--semibold);
+}
+
+.archive-year:not(:last-of-type) {
+    border-bottom: 2px solid var(--tertiary);
+}
+
+.archive-month {
+    display: flex;
+    align-items: flex-start;
+    padding: 10px 0;
+}
+
+.archive-month-header {
+    margin: var(--homesize) 0;
+    width: 150px;
+    font-weight: var(--semibold);
+    font-size: var(--homesize);
+}
+
+.archive-entry {
+    position: relative;
+    padding: 5px 0;
+    margin: 10px 0;
+}
+
+.archive-entry-title {
+    margin: 5px 0;
+    font-weight: normal;
+    font-size: var(--homesize);
+}
+
+.archive-count,
+.archive-meta {
+    color: var(--secondary);
+    font-size: 14px;
+}
