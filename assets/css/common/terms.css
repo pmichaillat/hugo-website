@@ -1,0 +1,20 @@
+.terms-tags li {
+    display: inline-block;
+    margin: 10px;
+    font-weight: 400;
+}
+
+.terms-tags a {
+    display: block;
+    padding: 3px 10px;
+    background: var(--entry);
+    border-radius: 6px;
+    transition: transform 0.1s;
+    border: 1px solid var(--border);
+    font-size: var(--homesize);
+}
+
+.terms-tags a:hover {
+    background: var(--lightpurple);
+}
+

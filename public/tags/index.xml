@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Prof. Name</title>
+    <link>https://pascalmichaillat.org/hugo-website/tags/</link>
+    <description>Recent content in Tags on Prof. Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>keyword 10</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyword 5</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyword 6</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyword 7</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyword 1</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyword 2</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyword 3</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyword 4</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

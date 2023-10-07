@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>keyword 4 on Prof. Name</title>
+    <link>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</link>
+    <description>Recent content in keyword 4 on Prof. Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/tags/keyword-4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course Title 2</title>
+      <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/courses/course2/</guid>
+      <description>This undergraduate course presents many new things.</description>
+    </item>
+    
+    <item>
+      <title>Paper Title 2</title>
+      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
+      <description>This paper shows other things. Published in Journal Name, 2015.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pascalmichaillat.org/hugo-website/sitemap.xml
