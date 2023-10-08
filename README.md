@@ -83,7 +83,7 @@ And here is an overview of the desktop performance:
 
 <img width="453" alt="desktop" src="https://github.com/pmichaillat/pmichaillat.github.io/assets/85443660/eff134d2-6097-4bc2-bfd7-4f5c18571789">
 
-Here are the [full report on mobile performance](https://pagespeed.web.dev/analysis/https-pascalmichaillat-org/hl96ythdue?form_factor=mobile) and the [full report on desktop performance](https://pagespeed.web.dev/analysis/https-pascalmichaillat-org/hl96ythdue?form_factor=desktop).
+Here are the [full report on mobile performance](https://pagespeed.web.dev/analysis/https-pascalmichaillat-org-hugo-website/cs5w6w3j8q?form_factor=mobile) and the [full report on desktop performance](https://pagespeed.web.dev/analysis/https-pascalmichaillat-org-hugo-website/cs5w6w3j8q?form_factor=desktop).
 
 ## License
 
