@@ -6,9 +6,12 @@ This repository contains a [Hugo](https://github.com/gohugoio/hugo) template to 
 
 The template is documented at https://pascalmichaillat.org/d5/.
 
+## Example
+
+The website produced by the template is available at https://pascalmichaillat.org/hugo-website/.
+
 ## Features
 
-+ The website produced by the template is available at https://pascalmichaillat.org/hugo-website/
 + Webpages are organized in three categories, which are available from any page through the menu and from the homepage through buttons: papers, courses, and data.
 + A list of tags (keywords) used in papers and courses is automatically generated so visitors can easily see the topics covered in research and teaching.
 + An archive page is automatically generated so visitors can easily see the most recent material added to the website.

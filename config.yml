@@ -25,7 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
 consequat."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
@@ -51,7 +51,7 @@ consequat."
     profileMode:
           enabled: true
           title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics."
+          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -86,6 +86,9 @@ consequat."
           url: https://github.com/pmichaillat
         - name: Substack
           url: https://pmichaillat.substack.com
+        - name: Twitter
+          url: https://twitter.com/pmichaillat
+
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
