@@ -21,7 +21,7 @@ editPost:
 
 + [Paper](paper2.pdf)
 + [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/hugo-website)
++ [Code and data](https://github.com/pmichaillat/unemployment-gap)
 
 ---
 

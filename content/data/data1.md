@@ -10,7 +10,7 @@ summary: "This dataset contains information on things in several countries."
     # alt: "Figure caption"
     # relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://github.com/pmichaillat/squareroot-uv"
     Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false
@@ -26,9 +26,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Download
 
-+ [Dataset: Country 1](https://github.com/pmichaillat/latex-presentation)
-+ [Dataset: Country 2](https://github.com/pmichaillat/latex-paper)
-+ [Dataset: Country 3](https://github.com/pmichaillat/latex-math)
++ [Dataset: Country 1](https://github.com/pmichaillat/stimulus-spending)
++ [Dataset: Country 2](https://github.com/pmichaillat/wunk)
++ [Dataset: Country 3](https://github.com/pmichaillat/pricing-with-fairness)
 
 
 ---
