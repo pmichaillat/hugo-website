@@ -6,9 +6,9 @@ This repository contains a [Hugo](https://github.com/gohugoio/hugo) template to 
 
 The template is documented at https://pascalmichaillat.org/d5/.
 
-## Example
+## Illustration
 
-The website produced by the template is available at https://pascalmichaillat.org/hugo-website/.
+The website produced by the template can be viewed at https://pascalmichaillat.org/hugo-website/.
 
 ## Features
 
@@ -22,59 +22,33 @@ The website produced by the template is available at https://pascalmichaillat.or
 
 ## Installation
 
+### On your local machine
+
 + Clone the repository to your local machine
 + Install [Hugo](https://gohugo.io/installation/). On a Mac, this is easily done with [Homebrew](https://brew.sh): simply run `brew install hugo` in the terminal.
-+ Since the template is hosted on GitHub Pages, it is convenient to install [GitHub Desktop](https://desktop.github.com) and update the website through it.
++ Since the website is hosted on GitHub Pages, it is convenient to install [GitHub Desktop](https://desktop.github.com). The website can conveniently be updated from your local machine via GitHub Desktop without going to GitHub.
 + Update the `baseURL` parameter in `config.yml` with the website URL that you plan to use
+
+### On your GitHub account
+
++ The first time that you push your repository to GitHub, you need to allow GitHub Actions and GitHub Pages so the website can be built and deployed to GitHub Pages.
++ The first step is to [ask GitHub to publish the website with a GitHub Action](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow).  GitHub offers a ready-made action to publish a Hugo website, called `Deploy Hugo site to Pages`. This action must be enabled in the [Pages Settings](https://github.com/pmichaillat/hugo-website/settings/pages) of your GitHub repository. You can view the workflow triggered by the action in the `.github/workflows/hugo.yml` file.
++ Once the GitHub Actions are enabled, GitHub will build and publish the website as soon as the repository is updated. 
 
 ## Usage
 
-+ Website development – Navigate to the website directory and run `hugo server` in the terminal. The command builds the website on your machine and made it available at http://localhost:1313. 
-+ Website compilation – Once the website is ready to be made public, run `hugo` in the terminal from the website directory.
-+ Website deployment – With GitHub Desktop, commit the changes and push them to the website repository on GitHub. Then, [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) build the website and deploy it to GitHub Pages. The workflow is in the `.github/workflows/hugo.yml` file.
+### Website development
 
-## Google Analytics
+Navigate to the website directory and run `hugo server` in the terminal. The command builds the website on your machine and makes it available at http://localhost:1313. You can modify the content of the repository and develop your website entirely on your local machine.
 
-The website supports Google Analytics 4. To set it up, simply uncomment the line `googleAnalyticsID: "G-XXXXX"` in `config.yml` and replace "G-XXXXX" with your own Google Analytics ID. If you do not wish to use Google Analytics, keep the line as it is.
 
-## Configuration file
+### Website compilation
 
-Net, update all the parameters that are specific to your website in the configuration file `config.yml`. Such parameters include:
+Once your website is ready to be made public, run `hugo` in the terminal from the website directory. When you run the `hugo` command, Hugo processes your content, templates, and other project files and generates a static website. The resulting output is placed in the `public` folder by default.
 
-+ `title` – Your name, to be used as title of the website
-+ `params:author` - Your name, to be used in HTML meta tags to specify the author of the webpage's content (this only adds a meta tag to the header of the homepage, it doesn't have any direct impact on the appearance or functionality of the webpage itself)
-+ `params:description` – A short description (less than 155 characters) of who you are, to be used in HTML meta tags to specify the content of the webpage (this description often appears in search engine results below the title of the webpage)
-+ `params:profileMode:title` – Your name, to be used as title on the homepage
-+ `params:profileMode:subtitle` – A description of who you are, to be used as a subtitle on the homepage
-+ `params:profileMode:imageTitle` – Your name, to be used as tag for your profile picture
-+ `params:socialIcons` – The URLs to your social accounts
+### Website deployment
 
-## Content files
-
-The files in the `content` folder are Markdown files that contain the content of the website. Each file corresponds to one page of the website. 
-
-The folders `papers`, `courses`, and `data` determine the website's structure. You can change the name of a folder to change the URL where the category page is located. You can add and remove folders to create and remove categories.
-
-The folder in which the file is placed (`papers`, `courses`, or `data`) determines the category in which the page will appear (the [paper page](https://pascalmichaillat.org/hugo-website/papers/), the [course page](https://pascalmichaillat.org/hugo-website/courses/), or the [data page](https://pascalmichaillat.org/hugo-website/data/)). 
-
-The `tags` folder hosts the customization of the [tag page](https://pascalmichaillat.org/hugo-website/tags/).
-
-+ `location.md` – Page linked to the location icon on the homepage.
-+ `officehours.md` – Page linked to the office hours icon on the homepage.
-
-## Static files
-
-The files in the `static` folder are PDF files and images to which the website links.
-
-+ `picture.jpeg` – Picture appearing on the homepage.
-+ `cv.pdf` – CV linked to the CV icon on the homepage. 
-+ `favicon.io`, `favicon-32x32.png`, `favicon-16x16.png`, `apple-touch-icon.png` – Favicon appearing in the menu bar next to the website title, and in the browser next to the URL. It can be replaced with a [favicon of your choice](https://favicon.io).
-
-## Public folder
-
-The `public` folder contains the fully generated static website files that are ready to be deployed to GitHub Pages. When you run the `hugo` command, Hugo processes your content, templates, and other project files and generates a static website. The resulting output is placed in the `public` folder by default.
-
-The `public` folder can therefore be  safely deleted. A new version of the `public` folder will be created when you run the `hugo` command from your own repository.
+With GitHub Desktop, commit the changes and push them to the website repository on GitHub. Then, [GitHub Actions](https://github.com/pmichaillat/hugo-website/actions/workflows/hugo.yml) build the website and deploy it to [GitHub Pages](https://github.com/pmichaillat/hugo-website/deployments/github-pages).
 
 ## Performance
 
@@ -95,3 +69,17 @@ The content of this repository is licensed under the terms of the MIT License.
 ## Acknowledgements
 
 Thank you to [Joel Sleeba](https://github.com/joelsleeba) for sharing code to center the homepage properly.
+
+## Real-world implementations
+
+Here are a few real-world implementations of the template: 
+
++ [Pascal Michaillat's website](https://pascalmichaillat.org/) ([source code](https://github.com/pmichaillat/pmichaillat.github.io))
++ [Samia Kabir's website](https://samiakabir.com) ([source code](https://github.com/SamiaKabir/samiakabir.github.io))
++ [Dylan Balla-Elliott's website](https://www.dballaelliott.com) ([source code](https://github.com/dballaelliott/site))
++ [Maarten Goos's website](https://maartengoos.com) ([source code](https://github.com/MaartenGoos/website))
++ [Abdalgader Abubaker's website](https://www.abdalgader.com) ([source code](https://github.com/abdalgader-a/abdalgader.github.io))
++ [Aryan Ahadinia's website](https://aryanahadinia.github.io) ([source code](https://github.com/AryanAhadinia/AryanAhadinia.github.io))
++ [William Overman's website](https://willoverman.github.io) ([source code](https://github.com/willoverman/willoverman.github.io))
++ [Jun Wong's website](https://junwong.org) ([source code](https://github.com/junwong97/junwong97.github.io))
++ [Qiwei He's website](https://www.qiwei-he.com)
