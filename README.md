@@ -79,4 +79,7 @@ Thank you to [Joel Sleeba](https://github.com/joelsleeba) for sharing code to ce
 + [Aryan Ahadinia's website](https://aryanahadinia.github.io) ([source code](https://github.com/AryanAhadinia/AryanAhadinia.github.io))
 + [William Overman's website](https://willoverman.github.io) ([source code](https://github.com/willoverman/willoverman.github.io))
 + [Jun Wong's website](https://junwong.org) ([source code](https://github.com/junwong97/junwong97.github.io))
++ [Erling Rennemo Jellum's website](https://erlingrj.github.io) ([source code](https://github.com/erlingrj/erlingrj.github.io))
++ [Yangkeun Yun's website](https://yangkeunyun.github.io) ([source code](https://github.com/yangkeunyun/yangkeunyun.github.io))
 + [Qiwei He's website](https://www.qiwei-he.com)
++ [Billy Ram's website](https://billygrahamram.github.io)
