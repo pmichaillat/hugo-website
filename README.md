@@ -37,16 +37,15 @@ The website produced by the template can be viewed at https://pascalmichaillat.o
 
 ## Usage
 
-### Website development
+### Development
 
 Navigate to the website directory and run `hugo server` in the terminal. The command builds the website on your machine and makes it available at http://localhost:1313. You can modify the content of the repository and develop your website entirely on your local machine.
 
+### Compilation
 
-### Website compilation
+Once your website is ready to be made public, run `hugo` in the terminal from the website directory. When you run the `hugo` command, Hugo processes your content, templates, and other project files and generates a static website. The resulting output is placed in the `public` folder.
 
-Once your website is ready to be made public, run `hugo` in the terminal from the website directory. When you run the `hugo` command, Hugo processes your content, templates, and other project files and generates a static website. The resulting output is placed in the `public` folder by default.
-
-### Website deployment
+### Deployment
 
 With GitHub Desktop, commit the changes and push them to the website repository on GitHub. Then, [GitHub Actions](https://github.com/pmichaillat/hugo-website/actions/workflows/hugo.yml) build the website and deploy it to [GitHub Pages](https://github.com/pmichaillat/hugo-website/deployments/github-pages).
 
@@ -71,8 +70,6 @@ The content of this repository is licensed under the terms of the MIT License.
 Thank you to [Joel Sleeba](https://github.com/joelsleeba) for sharing code to center the homepage properly.
 
 ## Real-world implementations
-
-Here are a few real-world implementations of the template: 
 
 + [Pascal Michaillat's website](https://pascalmichaillat.org/) ([source code](https://github.com/pmichaillat/pmichaillat.github.io))
 + [Samia Kabir's website](https://samiakabir.com) ([source code](https://github.com/SamiaKabir/samiakabir.github.io))
