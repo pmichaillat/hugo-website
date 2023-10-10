@@ -27,7 +27,7 @@ The website produced by the template can be viewed at https://pascalmichaillat.o
 + Clone the repository to your local machine
 + Install [Hugo](https://gohugo.io/installation/). On a Mac, this is easily done with [Homebrew](https://brew.sh): simply run `brew install hugo` in the terminal.
 + Since the website is hosted on GitHub Pages, it is convenient to install [GitHub Desktop](https://desktop.github.com). The website can conveniently be updated from your local machine via GitHub Desktop without going to GitHub.
-+ Update the `baseURL` parameter in `config.yml` with the website URL that you plan to use
++ Update the `baseURL` parameter in `config.yml` with the website URL that you plan to use. By default the ULR is `https://username.github.io`.
 
 ### On your GitHub account
 
@@ -81,5 +81,6 @@ Thank you to [Joel Sleeba](https://github.com/joelsleeba) for sharing code to ce
 + [Jun Wong's website](https://junwong.org) ([source code](https://github.com/junwong97/junwong97.github.io))
 + [Erling Rennemo Jellum's website](https://erlingrj.github.io) ([source code](https://github.com/erlingrj/erlingrj.github.io))
 + [Yangkeun Yun's website](https://yangkeunyun.github.io) ([source code](https://github.com/yangkeunyun/yangkeunyun.github.io))
++ [Maghfira Ramadhani's website](https://maghfiraer.github.io) ([source code](https://github.com/maghfiraer/maghfiraer.github.io))
 + [Qiwei He's website](https://www.qiwei-he.com)
 + [Billy Ram's website](https://billygrahamram.github.io)
