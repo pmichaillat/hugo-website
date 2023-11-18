@@ -65,10 +65,6 @@ Here are the [full report on mobile performance](https://pagespeed.web.dev/analy
 
 The content of this repository is licensed under the terms of the MIT License.
 
-## Acknowledgements
-
-Thank you to [Joel Sleeba](https://github.com/joelsleeba) for sharing code to center the homepage properly.
-
 ## Real-world implementations
 
 + [Pascal Michaillat's website](https://pascalmichaillat.org/) ([source code](https://github.com/pmichaillat/pmichaillat.github.io))
