@@ -20,6 +20,7 @@
 .profile img {
     display: inline-table;
     border-radius: 50%;
+    border: 1px solid rgb(207, 207, 207);
 }
 
 .buttons {
@@ -29,6 +30,7 @@
 
 .button {
     background: var(--tertiary);
+    border: 1px solid rgb(207, 207, 207);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
     padding: 6px;
@@ -42,11 +44,3 @@
 .button:hover {
     background: var(--midpurple);
 }
-
-.gray-line {
-    border: 4px solid;
-    color: var(--tertiary);
-/*    height: 1px;*/
-    width: 100%;
-/*    padding: 18px 18px;*/
-  }
