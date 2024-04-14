@@ -114,7 +114,7 @@
 }
 
 .post-content li::marker {
-    color: var(--gray);
+    color: var(--tertiary);
 }
 
 .post-content li p {
@@ -227,7 +227,7 @@
 .post-content blockquote {
     margin: 20px 0;
     padding: 0 14px;
-    border-inline-start: 4px solid var(--gray);
+    border-inline-start: 4px solid var(--tertiary);
 }
 
 .post-content hr {
@@ -276,7 +276,7 @@
 }
 
 .toc li::marker {
-    color: var(--gray);
+    color: var(--tertiary);
 }
 
 .dark .toc {
