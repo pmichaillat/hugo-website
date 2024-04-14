@@ -49,6 +49,10 @@ And here is an overview of the desktop performance:
 
 <img width="453" alt="desktop" src="https://github.com/pmichaillat/pmichaillat.github.io/assets/85443660/eff134d2-6097-4bc2-bfd7-4f5c18571789">
 
+## Software
+
+The website was built with Hugo v0.124.1 on an Apple Silicon Mac running macOS Sonoma 14.4.1.
+
 ## License
 
 The content of this repository is licensed under the terms of the MIT License.
