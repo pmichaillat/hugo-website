@@ -77,3 +77,26 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+
+/* Inline Details Styles */
+.inline-details {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.inline-details summary {
+    display: inline;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 5px; /* Adjust spacing as needed */
+}
+
+.inline-details .content {
+    display: none;
+    margin-top: 5px; /* Adjust spacing as needed */
+}
+
+.inline-details[open] .content {
+    display: block;
+}
