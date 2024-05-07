@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+title: Moritz-Maria von Igelfeld
 paginate: 20
 theme: PaperMod
 
@@ -11,23 +11,26 @@ taxonomies:
 
 menu:
     main:
+        - name: Books
+          url: books/
+          weight: 1 
         - name: Papers
           url: papers/
-          weight: 1
+          weight: 2
         - name: Courses
           url: courses/
-          weight: 2
+          weight: 3
         - name: Data
           url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+          weight: 4 
+        - name: Wikipedia
+          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 5
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
+    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
 consequat."
-    author: Name
+    author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,44 +53,45 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Professor Dr von Igelfeld
+          subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Moritz-Maria von Igelfeld
           buttons:
+            - name: Books
+              url: books/
             - name: Papers
               url: papers/
             - name: Courses
               url: courses/
             - name: Data
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
+            - name: Wikipedia
+              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
     socialIcons:
+        - name: Email
+          url: mailto:moritz.maria.von.igelfeld@gmail.com
         - name: CV
           url: cv.pdf
-        - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+        - name: YouTube
+          url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/McCallSmith
 
     assets:
         disableHLJS: true
@@ -96,7 +100,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Moritz-Maria von Igelfeld"
       icon: favicon.ico
       iconHeight: 18
 

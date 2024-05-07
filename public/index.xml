@@ -1,55 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Prof. Name</title>
+    <title>Moritz-Maria von Igelfeld</title>
     <link>https://pascalmichaillat.org/hugo-website/</link>
-    <description>Recent content on Prof. Name</description>
+    <description>Recent content on Moritz-Maria von Igelfeld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dataset Title</title>
+      <title>List of Irregular Verbs Across Romance Languages</title>
       <link>https://pascalmichaillat.org/hugo-website/data/data1/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/hugo-website/data/data1/</guid>
-      <description>This dataset contains things.</description>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     
     <item>
-      <title>Course Title 1</title>
+      <title>Lectures at the Villa of Reduced Circumstances</title>
       <link>https://pascalmichaillat.org/hugo-website/courses/course1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/hugo-website/courses/course1/</guid>
-      <description>This graduate course presents things.</description>
+      <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     
     <item>
-      <title>Course Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course2/</guid>
-      <description>This undergraduate course presents many new things.</description>
-    </item>
-    
-    <item>
-      <title>Paper Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
-    </item>
-    
-    <item>
-      <title>Paper Title 1</title>
+      <title>Unusual Uses For Olive Oil</title>
       <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
-      <description>This paper shows things. Published in Journal Name, 2012.</description>
+      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001.</description>
+    </item>
+    
+    <item>
+      <title>The Finer Points of Sausage Dogs</title>
+      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
+      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 1998.</description>
+    </item>
+    
+    <item>
+      <title>Portugese Irregular Verbs</title>
+      <link>https://pascalmichaillat.org/hugo-website/books/book1/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/books/book1/</guid>
+      <description>This book discusses Portugese irregular verbs in great details.</description>
+    </item>
+    
+    <item>
+      <title>Profanity in Early Irish</title>
+      <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/courses/course2/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
     
     
@@ -59,7 +68,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/hugo-website/location/</guid>
-      <description>Mailing and office addresses at the University of Place.</description>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
     </item>
     
     <item>
@@ -68,7 +77,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/hugo-website/officehours/</guid>
-      <description>Schedule and location for office hours.</description>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     
   </channel>

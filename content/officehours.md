@@ -1,13 +1,13 @@
 ---
 title: "Office Hours"
 hidemeta: true
-description: "Schedule and location for office hours."
+description: "Schedule and location for Professor Dr von Igelfeld's office hours."
 ---
 
 --- 
 #### Schedule
 
-Office hours take place on Day at Hour.
+Office hours take place on Wednesday at 10am.
 
 ---
 

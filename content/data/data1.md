@@ -1,16 +1,12 @@
 ---
-title: "Dataset Title" 
-date: 2023-09-07
-tags: ["keyword 5","keyword 6","keyword 7","keyword 10"]
-author: ["Author Name 1", "Author Name 2", "Author Name 3"]
-description: "This dataset contains things."
-summary: "This dataset contains information on things in several countries."
-# cover:
-    # image: "/data1.png"
-    # alt: "Figure caption"
-    # relative: false
+title: "List of Irregular Verbs Across Romance Languages" 
+date: 2013-03-07
+tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish"]
+author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
+description: "This dataset contains all irregular verbs in known Romance languages."
+summary: "This dataset contains all irregular verbs in known Romance languages."
 editPost:
-    URL: "https://github.com/pmichaillat/squareroot-uv"
+    URL: "https://github.com/pmichaillat/hugo-website"
     Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false
@@ -19,17 +15,16 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-The dataset contains information on this and that in various contries. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This dataset contains all irregular verbs in all known Romance languages—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
 ## Download
 
-+ [Dataset: Country 1](https://github.com/pmichaillat/stimulus-spending)
-+ [Dataset: Country 2](https://github.com/pmichaillat/wunk)
-+ [Dataset: Country 3](https://github.com/pmichaillat/pricing-with-fairness)
-
++ [Dataset: Irregular Verbs in Portugese](https://github.com/pmichaillat/latex-paper)
++ [Dataset: Irregular Verbs in Italian](https://github.com/pmichaillat/latex-math)
++ [Dataset: Irregular Verbs in French](https://github.com/pmichaillat/latex-presentation)
++ [Dataset: Irregular Verbs in Spanish](https://github.com/pmichaillat/matlab-figure)
 
 ---
 
@@ -57,7 +52,7 @@ cillum dolore eu fugiat nulla pariatur.
 
 ---
 
-## Using the data with software 1
+## Using data with Python
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -66,13 +61,71 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
----
+### Start Python:
 
-## Using the data with software 2
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.
+
+```python
+import numpy as np
+import pandas as pd
+```
+
+### Open the file:
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+```python
+file_path = 'data.csv'
+with open(file_path, 'r') as file:
+```
+
+#### Read data:
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur.
+
+```python
+    lines = file.readlines()
+```
+
+#### Parse and process data:
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur.
+
+```python
+data = []
+for line in lines:
+    line_data = line.strip().split(',')  # Split the line into a list of values
+    line_data = [float(value) for value in line_data]  # Convert values to floats
+    data.extend(line_data)  # Extend the main list with values from the line
+```
+
+##### Compute summary statistics using NumPy:
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+```python
+data_array = np.array(data)  # Convert the list to a NumPy array
+mean = np.mean(data_array)
+median = np.median(data_array)
+std_dev = np.std(data_array)
+min_value = np.min(data_array)
+max_value = np.max(data_array)
+```
+
+##### Display summary statistics:
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+consequat.
+
+```python
+print(f"Mean: {mean}")
+print(f"Median: {median}")
+print(f"Standard Deviation: {std_dev}")
+print(f"Minimum Value: {min_value}")
+print(f"Maximum Value: {max_value}")
+```

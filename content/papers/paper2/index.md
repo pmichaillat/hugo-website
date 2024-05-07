@@ -1,17 +1,17 @@
 ---
-title: "Paper Title 2" 
-date: 2015-12-01
-tags: ["keyword 1","keyword 2","keyword 4"]
-author: ["Author Name 1", "Author Name 2"]
-description: "This paper shows other things. Published in Journal Name, 2015." 
-summary: "This paper shows other things using other techniques and different data." 
+title: "The Finer Points of Sausage Dogs" 
+date: 1998-01-01
+tags: ["zoology","sausage dogs","canine pulmonary efficiency"]
+author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
+description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 1998." 
+summary: "his paper studies the pulmonary efficiency of sausage dogs." 
 cover:
     image: "paper2.png"
-    alt: "Image caption"
+    alt: "Dimensions of a sausage dog"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Other Journal Name"
+    URL: "http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs?series=von-igelfeld-series"
+    Text: "Journal of Canine Science"
 
 ---
 
@@ -21,17 +21,17 @@ editPost:
 
 + [Paper](paper2.pdf)
 + [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/unemployment-gap)
++ [Code and data](https://github.com/pmichaillat/hugo-presentation)
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ---
 
-##### Figure X: Figure caption
+##### Figure 2: Dimensions of a sausage dog
 
 ![](paper2.png)
 
@@ -39,18 +39,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Citation
 
-Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Prinzel, Florianus, and Moritz-Maria von Igelfeld. 1998. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs.
 
 ```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
+@article{PV98,
+author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
+year = {1998},
+title ={The Finer Points of Sausage Dogs},
+journal = {Journal of Canine Science},
+volume = {43},
+number = {2},
+pages = {89--109},
+url = {https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs}}
 ```
 
 ---
@@ -58,4 +58,4 @@ year = {Year}}
 ##### Related material
 
 + [Presentation slides](presentation2.pdf)
-
++ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
