@@ -39,7 +39,7 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2001. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. https://en.wikipedia.org/wiki/Unusual_Uses_for_Olive_Oil.
+Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2001. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil?series=von-igelfeld-series.
 
 ```BibTeX
 @article{UV01,
@@ -50,7 +50,7 @@ journal = {Journal of Oleic Science},
 volume = {34),
 number = {1},
 pages = {449--489},
-url = {https://en.wikipedia.org/wiki/Unusual_Uses_for_Olive_Oil}}
+url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil?series=von-igelfeld-series}}
 ```
 
 ---
@@ -58,4 +58,4 @@ url = {https://en.wikipedia.org/wiki/Unusual_Uses_for_Olive_Oil}}
 ##### Related material
 
 + [Slides for long presentation](presentation1.pdf)
-+ [Summary of the paper](https://en.wikipedia.org/wiki/Unusual_Uses_for_Olive_Oil)
++ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
