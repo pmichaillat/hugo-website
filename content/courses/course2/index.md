@@ -1,6 +1,7 @@
 ---
 title: "Profanity in Early Irish" 
 date: 1990-06-16
+lastmod: 2024-05-08
 tags: ["Irish","philology","profanity","Celtic languages"]
 author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
 description: "This undergraduate course discusses profanity in Early Irish." 
@@ -10,7 +11,7 @@ cover:
     alt: "Figure caption"
     relative: false
 editPost:
-    URL: "http://www.alexandermccallsmith.com/series/von-igelfeld-series"
+    URL: "https://github.com/pmichaillat/hugo-website"
     Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
@@ -33,7 +34,7 @@ This course covers topics related to profanity in Early Irish. It relates such p
 
 ##### Introductory readings
 
-+ [Paper 1](https://doi.org/10.1093/oep/gpab021) – This paper argues things.
++ [Paper 1](http://www.alexandermccallsmith.com/series/von-igelfeld-series) – This paper argues things.
 + [Paper 2](https://doi.org/10.1016/j.pubecp.2021.100009) – This paper finds results. 
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Portugese Irregular Verbs" 
 date: 1997-01-01
+lastmod: 2024-05-08
 tags: ["Portugese","irregular verbs","philology"]
 author: ["Moritz-Maria von Igelfeld"]
 description: "This book discusses Portugese irregular verbs in great details."
@@ -10,7 +11,7 @@ cover:
     alt: "Portugese Irregular Verbs"
     relative: false
 editPost:
-    URL: "http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs?series=von-igelfeld-series"
+    URL: "https://github.com/pmichaillat/hugo-website"
     Text: "Regensburg University Press"
 showToc: false
 disableAnchoredHeadings: false

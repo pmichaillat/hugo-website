@@ -1,6 +1,7 @@
 ---
 title: "The Finer Points of Sausage Dogs" 
 date: 1998-01-01
+lastmod: 2024-05-08
 tags: ["zoology","sausage dogs","canine pulmonary efficiency"]
 author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 1998." 
@@ -10,7 +11,7 @@ cover:
     alt: "Dimensions of a sausage dog"
     relative: false
 editPost:
-    URL: "http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs?series=von-igelfeld-series"
+    URL: "https://github.com/pmichaillat/hugo-website"
     Text: "Journal of Canine Science"
 
 ---
@@ -21,7 +22,7 @@ editPost:
 
 + [Paper](paper2.pdf)
 + [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/latex-presentation)
++ [Code and data](https://github.com/pmichaillat/hugo-website)
 
 ---
 
@@ -39,7 +40,7 @@ This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor s
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 1998. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs.
+Prinzel, Florianus, and Moritz-Maria von Igelfeld. 1998. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
 
 ```BibTeX
 @article{PV98,
@@ -50,7 +51,7 @@ journal = {Journal of Canine Science},
 volume = {43},
 number = {2},
 pages = {89--109},
-url = {https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs}}
+url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
 ```
 
 ---

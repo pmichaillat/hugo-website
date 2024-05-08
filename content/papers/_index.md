@@ -1,4 +1,4 @@
 ---
 title: "Papers"
-description: "Preprints and articles on this website."
+description: "Preprints and articles by Professor Dr von Igelfeld."
 ---

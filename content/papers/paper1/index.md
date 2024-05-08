@@ -1,6 +1,7 @@
 ---
 title: "Unusual Uses For Olive Oil" 
 date: 2003-10-15
+lastmod: 2024-05-08
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
@@ -10,7 +11,7 @@ cover:
     alt: "Some Uses For Olive Oil"
     relative: false
 editPost:
-    URL: "http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil?series=von-igelfeld-series"
+    URL: "https://github.com/pmichaillat/hugo-website"
     Text: "Journal of Oleic Science"
 
 ---
@@ -21,7 +22,7 @@ editPost:
 
 + [Paper](paper1.pdf)
 + [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/latex-paper)
++ [Code and data](https://github.com/pmichaillat/hugo-website)
 
 ---
 
@@ -39,7 +40,7 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2001. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil?series=von-igelfeld-series.
+Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2001. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
 
 ```BibTeX
 @article{UV01,
@@ -50,7 +51,7 @@ journal = {Journal of Oleic Science},
 volume = {34),
 number = {1},
 pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil?series=von-igelfeld-series}}
+url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 ```
 
 ---

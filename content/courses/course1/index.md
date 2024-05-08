@@ -1,6 +1,7 @@
 ---
 title: "Lectures at the Villa of Reduced Circumstances"
 date: 2003-03-10
+lastmod: 2024-05-08
 tags: ["Romance languages","philology","irregular verbs"]
 author: "Moritz-Maria von Igelfeld"
 description: "This graduate course presents classical results in Romance philology." 
@@ -10,8 +11,8 @@ cover:
     alt: "Villa of Reduced Circumstances"
     relative: false
 editPost:
-    URL: "https://youtu.be/3MZeJED2yns"
-    Text: "YouTube playlist"
+    URL: "https://github.com/pmichaillat/hugo-website"
+    Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
 
@@ -36,10 +37,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ##### Lecture videos
 
-1. [Lecture video 1](https://youtu.be/0rbmjemhy38)
+1. [Lecture video 1](https://youtu.be/3MZeJED2yns)
 2. [Lecture video 2](https://youtu.be/a2tbm5ljZJM)
 3. [Lecture video 3](https://youtu.be/bz2mXgo7Kj0)
-4. [Lecture video 4](https://youtu.be/rA4S9lFiU3o)
 
 ##### Lecture notes
 
@@ -64,11 +64,9 @@ This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, c
 
 ##### Lecture videos
 
-5. [Lecture video 5](https://youtu.be/tU0dtS9iiOk)
-6. [Lecture video 6](https://youtu.be/GMIKykwvrGI)
-7. [Lecture video 7](https://youtu.be/79MSNfp1rw0)
-8. [Lecture video 8](https://youtu.be/zEShE10YiYo)
-9. [Lecture video 9](https://youtu.be/SNlHsn7isog)
+5. [Lecture video 4](https://youtu.be/tU0dtS9iiOk)
+6. [Lecture video 5](https://youtu.be/GMIKykwvrGI)
+7. [Lecture video 6](https://youtu.be/79MSNfp1rw0)
 
 
 ---
@@ -101,5 +99,4 @@ This section concludes by comparing Portuguese and Spanish irregular verbs to ir
 > Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 > Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
-Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

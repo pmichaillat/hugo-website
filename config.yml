@@ -23,7 +23,7 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Wikipedia
+        - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 5
 
@@ -72,7 +72,7 @@ consequat."
               url: tags/
             - name: Archive
               url: archive/
-            - name: Wikipedia
+            - name: Blog
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
