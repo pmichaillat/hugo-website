@@ -28,8 +28,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
-consequat."
+    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -43,6 +42,8 @@ consequat."
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
@@ -88,6 +89,8 @@ consequat."
           url: officehours/
         - name: GitHub
           url: https://github.com/pmichaillat
+        - name: Substack
+          url: https://pmichaillat.substack.com
         - name: YouTube
           url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter

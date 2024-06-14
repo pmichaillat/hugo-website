@@ -3,7 +3,7 @@
 <header class="page-header">
 </header>
 
-{{- $pages := site.RegularPages}}
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- if site.Params.ShowAllPagesInArchive }}
 {{- $pages = site.RegularPages }}
 {{- end }}
@@ -11,20 +11,24 @@
 {{- range $pages.GroupByPublishDate "2006" }}
 {{- if ne .Key "0001" }}
 <div class="archive-year">
-  <h2 class="archive-year-header">
-    {{- replace .Key "0001" "" }}
-  </h2>
+  {{- $year := replace .Key "0001" "" }}
+  <h2 class="archive-year-header" id="{{ $year }}">
+    <a class="archive-header-link" href="#{{ $year }}">
+      {{- $year -}}
+    </a>
   {{- range .Pages.GroupByDate "January" }}
   <div class="archive-month">
-    <h3 class="archive-month-header">{{- .Key }}
+    <h3 class="archive-month-header" id="{{ $year }}-{{ .Key }}">
+      <a class="archive-header-link" href="#{{ $year }}-{{ .Key }}">
+        {{- .Key -}}
+      </a>
     </h3>
     <div class="archive-posts">
       {{- range .Pages }}
       {{- if eq .Kind "page" }}
       <div class="archive-entry">
-        <h3 class="archive-entry-title">
+        <h3 class="archive-entry-title entry-hint-parent">
           {{- .Title | markdownify }}
-          {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
         </h3>
         <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
       </div>
@@ -37,4 +41,4 @@
 {{- end }}
 {{- end }}
 
-{{- end }}{{/* end main */}}
+{{- end }}
