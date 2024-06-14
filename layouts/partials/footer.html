@@ -1,12 +1,20 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
+    {{- if not site.Params.footer.hideCopyright }}
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
-    &copy; {{ now.Year }} {{ site.Title }}
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
+    {{- print " · "}}
+    {{- end }}
+
+    {{- with site.Params.footer.text }}
+    {{ . | markdownify }}
+    {{- print " · "}}
+    {{- end }}    
     <span>
-    &middot;  Powered by 
+    Powered by 
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
          of 
@@ -22,8 +30,6 @@
     </svg>
 </a>
 {{- end }}
-
-{{- partial "extend_footer.html" . }}
 
 <script>
     let menu = document.getElementById('menu')
@@ -67,21 +73,6 @@
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-{{- end }}
-
-{{- if (not site.Params.disableThemeToggle) }}
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 {{- end }}
