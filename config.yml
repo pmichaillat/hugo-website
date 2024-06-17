@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Aria Rastegar
 paginate: 20
 theme: PaperMod
 
@@ -28,7 +28,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "I am a PhD researcher of Linguistics at the FAU Erlangen-Nuremberg, Germany. My current research focuses mostly on the acquisition of idiomatic contritions in L1 and L2."
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -54,7 +54,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
+          title: Aria Rastegar
           subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
           imageUrl: "picture.jpeg"
           imageWidth: 160
