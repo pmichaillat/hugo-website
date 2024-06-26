@@ -34,8 +34,8 @@ This course covers topics related to profanity in Early Irish. It relates such p
 
 ##### Introductory readings
 
-+ [Paper 1](http://www.alexandermccallsmith.com/series/von-igelfeld-series) – This paper argues things.
-+ [Paper 2](https://doi.org/10.1016/j.pubecp.2021.100009) – This paper finds results. 
++ [Paper 1](https://pascalmichaillat.org/13.pdf) – This paper argues things.
++ [Paper 2](https://pascalmichaillat.org/9.pdf) – This paper finds other results. 
 
 ---
 
@@ -51,8 +51,8 @@ cillum dolore eu fugiat nulla pariatur.
 
 ##### Readings
 
-+ [Paper 3](https://doi.org/10.1162/rest_a_00893) – This paper finds things.
-+ [Paper 4](https://doi.org/10.1073/pnas.1816454115) – This survey reviews things.
++ [Paper 3](https://pascalmichaillat.org/7.pdf) – This paper finds things.
++ [Paper 4](https://pascalmichaillat.org/8.pdf) – This survey reviews things.
 
 ##### Homework
 
@@ -76,8 +76,10 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 ##### Readings
 
-+ [Paper 5](https://doi.org/10.1257/pol.20150088) – This paper shows stuff.
-+ [Paper 6](https://doi.org/10.1257/pol.20160462) – This paper shows other things.
++ [Paper 5](https://pascalmichaillat.org/10.pdf) – This paper shows stuff.
++ [Paper 6](https://pascalmichaillat.org/11.pdf) – This paper shows other things.
++ [Paper 6](https://pascalmichaillat.org/14.pdf) – This paper demonstrates advanced results.
++ [Paper 6](https://pascalmichaillat.org/15.pdf) – This paper reviews some earlier papers and discusses newer work.
 
 ##### Homework
 

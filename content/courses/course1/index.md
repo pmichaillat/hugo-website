@@ -47,9 +47,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ##### Readings
 
-+ [Paper 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-+ [Paper 2](https://doi.org/10.1257/mac.6.1.190) – This paper reviews things.
-+ [Paper 3](https://doi.org/10.1093/qje/qjv006) – This paper reviews more things and derives some results.
++ [Paper 1](https://pascalmichaillat.org/1.pdf) – This paper finds things.
++ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper reviews things.
++ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper reviews more things and derives some results.
 
 ##### Homework
 
@@ -82,8 +82,8 @@ cillum dolore eu fugiat nulla pariatur.
 
 ##### Readings
 
-+ [Paper 4](https://doi.org/10.1093/restud/rdy030) – This paper shows stuff.
-+ [Paper 5](https://doi.org/10.1093/jeea/jvaa041) – This paper shows other things.
++ [Paper 4](https://pascalmichaillat.org/5.pdf) – This paper shows stuff.
++ [Paper 5](https://pascalmichaillat.org/3.pdf) – This paper shows other things.
 
 ##### Homework
 
@@ -96,7 +96,7 @@ cillum dolore eu fugiat nulla pariatur.
 
 This section concludes by comparing Portuguese and Spanish irregular verbs to irregular verbs in other Romance languages. 
 
-> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst. Quisque non felis. Nullam vulputate libero quis ligula. Fusce scelerisque suscipit sapien. Suspendisse commodo ullamcorper magna. 
 > Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
