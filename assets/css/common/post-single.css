@@ -282,7 +282,8 @@
 
 .toc details summary {
     cursor: zoom-in;
-    margin-inline-start: calc(var(--marginleft) - 12px);
+    margin-inline-start: 10px;
+    user-select: none;
 }
 
 .toc details[open] summary {
@@ -297,8 +298,9 @@
 }
 
 .toc .inner {
-    margin: 0 calc(var(--marginleft) - 12px);
-    padding: 10px 20px;
+    margin: 5px 20px 0;
+    padding: 0 10px;
+    opacity: 0.9;
     font-size: 16px;
 }
 

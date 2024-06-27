@@ -61,14 +61,18 @@ params:
           imageHeight: 160
           imageTitle: Moritz-Maria von Igelfeld
           buttons:
+            - name: CV
+              url: cv.pdf
             - name: Job-market paper
               url: jmp.pdf
             - name: All papers
               url: papers/
             - name: Courses
               url: courses/
-            # - name: Data
-            #   url: data/
+            - name: Data
+              url: data/
+            - name: Books
+              url: books/
             - name: Tags
               url: tags/
             - name: Archive
@@ -79,14 +83,14 @@ params:
     socialIcons:
         - name: Email
           url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: CV
-          url: cv.pdf
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: Zoom
+          url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/pmichaillat
         - name: Substack
@@ -97,7 +101,6 @@ params:
           url: https://twitter.com/McCallSmith
 
     assets:
-        disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
