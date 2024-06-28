@@ -20,12 +20,14 @@ This dataset contains all irregular verbs in all known Romance languages—inclu
 
 ---
 
-## Download
+## View
 
 + [Dataset: Irregular Verbs in Portugese](https://github.com/pmichaillat/u-star)
 + [Dataset: Irregular Verbs in Italian](https://github.com/pmichaillat/unemployment-gap)
 + [Dataset: Irregular Verbs in French](https://github.com/pmichaillat/fairness)
 + [Dataset: Irregular Verbs in Spanish](https://github.com/pmichaillat/p-hacking)
++ [Paper: Construction of the Portugese and Italian datasets](https://pascalmichaillat.org/1.pdf)
++ [Paper: Construction of the Spanish and French datasets](https://pascalmichaillat.org/2.pdf)
 
 ---
 
