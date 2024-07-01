@@ -46,18 +46,18 @@ cillum dolore eu fugiat nulla pariatur.
 
 ##### Lecture videos
 
-1. [Lecture video 1](https://youtu.be/X_mwtm3inEw) ([notes](notes1.pdf))
-2. [Lecture video 2](https://youtu.be/cFdwOwY2l-A) ([notes](notes2.pdf))
++ [Lecture video 1](https://youtu.be/X_mwtm3inEw)
++ [Lecture video 2](https://youtu.be/cFdwOwY2l-A)
+
+##### Lecture notes
+
++ [Lecture notes 1](notes1.pdf) – Concise overview of early Irish
++ [Lecture notes 2](notes2.pdf) – Complete and detailed overview of early Irish
 
 ##### Readings
 
 + [Paper 3](https://pascalmichaillat.org/7.pdf) – This paper finds things.
 + [Paper 4](https://pascalmichaillat.org/8.pdf) – This survey reviews things.
-
-##### Homework
-
-+ [Quiz 1](quiz3.pdf)
-+ [Problem set 1](ps3.pdf)
 
 ---
 
@@ -65,26 +65,25 @@ cillum dolore eu fugiat nulla pariatur.
 
 This section introduces profanity in Indo-European languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua:
 
-> Maecenas quis ex nec tortor pulvinar tristique. Morbi eget massa nec quam interdum posuere. Vestibulum lobortis auctor massa, sed hendrerit risus malesuada eu. Fusce nec metus ligula. Donec in mauris dolor.
+> Maecenas quis ex nec tortor pulvinar tristique. Morbi eget massa nec quam interdum posuere. Vestibulum lobortis auctor massa, sed hendrerit risus malesuada eu. Fusce nec metus ligula. Donec in mauris dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vestibulum erat nec odio tincidunt, vitae laoreet mi tempor.
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vestibulum erat nec odio tincidunt, vitae laoreet mi tempor. Quisque id eros sit amet enim tempor pellentesque. Suspendisse tincidunt risus a vehicula tincidunt. Nullam sollicitudin libero et ex cursus ultrices. Phasellus sit amet justo vitae nulla hendrerit pretium. Aenean quis velit eu risus pharetra vestibulum. Sed nec risus dolor. Vivamus vel leo ac ante pharetra auctor. Curabitur eleifend sapien non nisl varius, in hendrerit ipsum vehicula. Sed non justo sit amet nisi pharetra fermentum.
 
 ##### Lecture videos
 
-3. [Lecture video 3](https://youtu.be/ZgYtFURIu4A) ([notes](notes3.pdf))
-4. [Lecture video 4](https://youtu.be/6j2Debc6LcI) ([notes](notes4.pdf))
++ [Lecture video 3](https://youtu.be/ZgYtFURIu4A)
++ [Lecture video 4](https://youtu.be/6j2Debc6LcI)
 
 ##### Readings
 
 + [Paper 5](https://pascalmichaillat.org/10.pdf) – This paper shows stuff.
 + [Paper 6](https://pascalmichaillat.org/11.pdf) – This paper shows other things.
 + [Paper 6](https://pascalmichaillat.org/14.pdf) – This paper demonstrates advanced results.
-+ [Paper 6](https://pascalmichaillat.org/15.pdf) – This paper reviews some earlier papers and discusses newer work.
++ [Paper 7](https://pascalmichaillat.org/15.pdf) – This paper reviews some earlier papers and discusses newer work.
 
 ##### Homework
 
-+ [Quiz 2](quiz4.pdf)
-+ [Problem Set 2](ps4.pdf)
++ [Problem set on profanity in Indo-European languages](problemset.pdf)
 
 ---
 
@@ -98,10 +97,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-##### Lecture slides
+##### Lecture videos
 
-1. [Lecture slides 1](slides1.pdf)
-2. [Lecture slides 2](slides2.pdf)
++ [Lecture video 5](https://youtu.be/Q0y2EtgTpXM)
++ [Lecture slides 6](https://youtu.be/0ZO87WsOYrY)
 
 ---
 
@@ -110,10 +109,12 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 This section turns to the modernization of profanity over the ages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-##### Lecture slides
 
-3. [Lecture slides 3](slides3.pdf)
-4. [Lecture slides 4](slides4.pdf)
+##### Lecture videos
+
++ [Lecture video 7](https://youtu.be/rgcpMgKfCk8)
++ [Lecture video 8](https://youtu.be/7O9wMwcABaI)
++ [Lecture video 9](https://youtu.be/RZ1jK-S37sQ)
 
 ---
 

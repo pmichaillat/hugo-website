@@ -38,19 +38,18 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
-#### Download
+#### View
 
 + [Chapter 1: History of the Portuguese language](chapter1.pdf)
 + [Chapter 2: Review of regular verbs](chapter2.pdf)
 + [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
-+ [Chapter 4: Further reflections on irregular verbs](chapter4.pdf)
 
 ---
 
-#### Excerpt from Chapter 1: Basic results from Portuguese philology
+#### Excerpt from Chapter 1: Basic mathematical results from Portuguese philology
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit $x\in \mathbb{N}$. Proin ac libero nec eros accumsan sagittis: $x^\ast = \max f(x)$. Fusce gravida $4 \ln(x+y) =4 \int \ln(x^2)dx$, lectus nec aliquet malesuada, augue dui lacinia velit, eget ullamcorper lorem lorem id turpis. Nam interdum est id venenatis fermentum. Nullam fermentum, arcu eu luctus fermentum, felis orci pretium mi, eu bibendum ligula neque in metus. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit $x\in \mathbb{N}$. Proin ac libero nec eros accumsan sagittis: $x^\ast = \max f(x)$. Fusce gravida $4 \ln(x+y) =4 \int \ln(x^2)dx$, lectus nec aliquet malesuada, augue dui lacinia velit, eget ullamcorper lorem lorem id turpis. Nam interdum est id venenatis fermentum: . Nullam fermentum, arcu eu luctus fermentum, felis orci pretium mi, eu bibendum ligula neque in metus. 
 
 $$1+\lambda\exp{\frac{\beta}{\alpha^2}} = \max_{t\in\mathbb{R}}(x(t)-y(t)+z(t)^2).$$
 
@@ -66,7 +65,7 @@ Praesent at eros a sapien sagittis scelerisque at a nulla. Aliquam erat volutpat
 
 #### Citation
 
-Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, Germany: Regensburg University Press. https://en.wikipedia.org/wiki/Portuguese_Irregular_Verbs.
+Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, Germany: Regensburg University Press. http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs.
 
 ```BibTeX
 @book{I97,
@@ -75,5 +74,5 @@ year = {1997},
 title = {Portugese Irregular Verbs},
 publisher = {Regensburg University Press},
 address = {Regensburg, Germany},
-url = {https://en.wikipedia.org/wiki/Portuguese_Irregular_Verbs}}
+url = {http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs}}
 ```

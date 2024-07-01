@@ -22,12 +22,12 @@ This dataset contains all irregular verbs in all known Romance languages—inclu
 
 ## View
 
-+ [Dataset: Irregular Verbs in Portugese](https://github.com/pmichaillat/u-star)
-+ [Dataset: Irregular Verbs in Italian](https://github.com/pmichaillat/unemployment-gap)
-+ [Dataset: Irregular Verbs in French](https://github.com/pmichaillat/fairness)
-+ [Dataset: Irregular Verbs in Spanish](https://github.com/pmichaillat/p-hacking)
-+ [Paper: Construction of the Portugese and Italian datasets](https://pascalmichaillat.org/1.pdf)
-+ [Paper: Construction of the Spanish and French datasets](https://pascalmichaillat.org/2.pdf)
++ Irregular verbs in Portugese: [dataset](https://github.com/pmichaillat/u-star)
++ Irregular verbs in Italian: [dataset](https://github.com/pmichaillat/unemployment-gap)
++ Irregular verbs in French: [dataset](https://github.com/pmichaillat/job-rationing)
++ Irregular verbs in Spanish: [dataset](https://github.com/pmichaillat/countercyclical-multiplier)
++ Construction of the Portugese and Italian datasets: [paper](https://pascalmichaillat.org/1.pdf) and [online appendix](https://pascalmichaillat.org/1a.pdf)
++ Construction of the Spanish and French datasets: [paper](https://pascalmichaillat.org/2.pdf)
 
 ---
 
@@ -45,11 +45,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ## Description of variables
 
 + Lorem ipsum dolor sit amet
-+ consectetur adipisicing elit
-+ sed do eiusmod
-+ tempor incididunt ut labore et dolore magna aliqua
++ Consectetur adipisicing elit
++ Sed do eiusmod
++ Tempor incididunt ut labore et dolore magna aliqua
 + Ut enim ad minim veniam
-+ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
++ Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur.
 

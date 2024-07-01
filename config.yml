@@ -55,17 +55,13 @@ params:
     profileMode:
           enabled: true
           title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden. **In 2024/2025, I will be on the academic job market.**"
+          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Moritz-Maria von Igelfeld
           buttons:
-            - name: CV
-              url: cv.pdf
-            - name: Job-market paper
-              url: jmp.pdf
-            - name: All papers
+            - name: Papers
               url: papers/
             - name: Courses
               url: courses/
@@ -81,6 +77,8 @@ params:
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
+        - name: cv
+          url: cv.pdf
         - name: Email
           url: mailto:moritz.maria.von.igelfeld@gmail.com
         - name: Zoom
