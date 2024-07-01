@@ -75,3 +75,4 @@ The content of this repository is licensed under the terms of the MIT License.
 + [Franz Louis Cesista's website](https://leloykun.github.io) ([source code](https://github.com/leloykun/leloykun.github.io))
 + [Pragathi Praveena's website](https://pragathipraveena.com)
 + [Qiwei He's website](https://www.qiwei-he.com)
++ [Pierre Bardier's website](https://pierrebard.github.io/pierre-bardier/)
