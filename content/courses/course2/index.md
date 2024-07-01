@@ -30,7 +30,7 @@ This course covers topics related to profanity in Early Irish. It relates such p
 
 ##### Introductory video
 
-0. [Lecture video 0](https://youtu.be/nSbrF_ZWE_M)
++ [Lecture video 0](https://youtu.be/8ihJsf-AXdA)
 
 ##### Introductory readings
 
