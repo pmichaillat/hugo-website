@@ -39,7 +39,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 + [Lecture video 1](https://youtu.be/3MZeJED2yns)
 + [Lecture video 2](https://youtu.be/a2tbm5ljZJM)
-+ [Lecture video 3](https://youtu.be/bz2mXgo7Kj0)
++ [Lecture video 3](https://youtu.be/79MSNfp1rw0)
 
 ##### Lecture notes
 
@@ -89,7 +89,7 @@ This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit
 
 ##### Optional readings
 
-+ [Paper 6](https://pascalmichaillat.org/3.pdf) – This paper finds complicated patterns in the data.
++ [Paper 6](https://pascalmichaillat.org/10.pdf) – This paper finds complicated patterns in the data.
 + [Paper 7](https://pascalmichaillat.org/11.pdf) – This paper reviews data on verbs.
 + [Paper 8](https://pascalmichaillat.org/12.pdf) – This paper characterizes more things and derives some results.
 
