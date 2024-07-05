@@ -15,6 +15,7 @@ editPost:
     Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
+draft: true
 
 ---
 

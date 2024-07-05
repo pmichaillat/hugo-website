@@ -44,7 +44,6 @@ params:
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
     MainSections: ["books","courses","papers","data"]
-    ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -77,7 +76,7 @@ params:
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: cv
+        - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:moritz.maria.von.igelfeld@gmail.com

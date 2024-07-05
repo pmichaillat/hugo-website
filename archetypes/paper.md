@@ -22,8 +22,8 @@ editPost:
 
 ##### Download:
 
-- [Paper](/paper.pdf)
-- [Online appendix](/appendix.pdf)
+- [Paper](paper.pdf)
+- [Online appendix](appendix.pdf)
 - [Code and data](https://github.com/paper_repo)
 
 ---
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Figure X:  Figure title
 
-![](/figurex.png)
+![](figurex.png)
 
 ---
 
@@ -60,4 +60,4 @@ year = {Year}}
 
 ##### Related material
 
-+ [Presentation slides](/presentation.pdf)
++ [Presentation slides](presentation.pdf)
