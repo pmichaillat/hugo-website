@@ -15,5 +15,12 @@
       <guid>https://pascalmichaillat.org/hugo-website/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
+    <item>
+      <title>Lectures at the Villa of Reduced Circumstances</title>
+      <link>https://pascalmichaillat.org/hugo-website/courses/course1/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/hugo-website/courses/course1/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
   </channel>
 </rss>

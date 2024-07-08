@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dataset</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/hugo-website/tags/dataset/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>French</title>
       <link>https://pascalmichaillat.org/hugo-website/tags/french/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +48,13 @@
       <link>https://pascalmichaillat.org/hugo-website/tags/portuguese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/hugo-website/tags/portuguese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/hugo-website/tags/python/</guid>
       <description></description>
     </item>
     <item>
@@ -118,6 +132,13 @@
       <link>https://pascalmichaillat.org/hugo-website/tags/irish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/hugo-website/tags/irish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Language Modernization</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/language-modernization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/hugo-website/tags/language-modernization/</guid>
       <description></description>
     </item>
     <item>
