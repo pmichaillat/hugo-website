@@ -68,8 +68,8 @@
   "keywords": [
     "Romance languages", "philology", "irregular verbs", "Portuguese", "Italian", "French", "Spanish", "dataset", "python"
   ],
-  "articleBody": "Overview This dataset contains all irregular verbs in all known Romance languages —including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nView datasets Irregular verbs in Portugese Irregular verbs in Italian Irregular verbs in French Irregular verbs in Spanish Source of data Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nDescription of variables Variable Range Description Reference $\\alpha$ 1930–1954 Tempor Michaillat (2012) $\\lambda$ 1930–1954 Fugiat Michaillat (2014) $\\gamma$ 1833–1954 Duis Landais et al (2018) $\\omega$ 1930–1994 Excepteur Michaillat \u0026 Saez (2021) $\\sigma$ 1990–2023 Lorem Akerlof \u0026 Michaillat (2018) $\\chi^2$ 1990–2023 Labore Michaillat (2023) $c(t)$ 1890–1900 Pariatur Landais et al (2018) Using data with Python Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nStart Python: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nimport numpy as np import pandas as pd Open the file: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nfile_path = 'data.csv' with open(file_path, 'r') as file: Read data: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nlines = file.readlines() Parse and process data: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\ndata = [] for line in lines: line_data = line.strip().split(',') # Split the line into a list of values line_data = [float(value) for value in line_data] # Convert values to floats data.extend(line_data) # Extend the main list with values from the line Compute summary statistics using NumPy: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\ndata_array = np.array(data) # Convert the list to a NumPy array mean = np.mean(data_array) median = np.median(data_array) std_dev = np.std(data_array) min_value = np.min(data_array) max_value = np.max(data_array) Display summary statistics: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nprint(f\"Mean: {mean}\") print(f\"Median: {median}\") print(f\"Standard Deviation: {std_dev}\") print(f\"Minimum Value: {min_value}\") print(f\"Maximum Value: {max_value}\") ",
-  "wordCount" : "540",
+  "articleBody": "Overview This dataset contains all irregular verbs in all known Romance languages —including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nView datasets Irregular verbs in Portugese Irregular verbs in Italian Irregular verbs in French Irregular verbs in Spanish Source of data Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nDescription of variables Variable Time period Description Reference $\\alpha$ 1930–1954 Tempor Michaillat (2012) $\\lambda$ 1930–1954 Fugiat Michaillat (2014) $\\gamma$ 1833–1954 Duis Landais et al (2018) $\\omega$ 1930–1994 Excepteur Michaillat \u0026 Saez (2021) $\\sigma$ 1990–2023 Lorem Akerlof \u0026 Michaillat (2018) $\\chi^2$ 1990–2023 Labore Michaillat (2023) $c(t)$ 1890–1900 Pariatur Landais et al (2018) Using data with Python Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nStart Python: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nimport numpy as np import pandas as pd Open the file: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nfile_path = 'data.csv' with open(file_path, 'r') as file: Read data: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nlines = file.readlines() Parse and process data: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\ndata = [] for line in lines: line_data = line.strip().split(',') # Split the line into a list of values line_data = [float(value) for value in line_data] # Convert values to floats data.extend(line_data) # Extend the main list with values from the line Compute summary statistics using NumPy: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\ndata_array = np.array(data) # Convert the list to a NumPy array mean = np.mean(data_array) median = np.median(data_array) std_dev = np.std(data_array) min_value = np.min(data_array) max_value = np.max(data_array) Display summary statistics: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nprint(f\"Mean: {mean}\") print(f\"Median: {median}\") print(f\"Standard Deviation: {std_dev}\") print(f\"Minimum Value: {min_value}\") print(f\"Maximum Value: {max_value}\") ",
+  "wordCount" : "541",
   "inLanguage": "en",
   "datePublished": "2013-03-07T00:00:00Z",
   "dateModified": "2024-05-08T00:00:00Z",
@@ -243,60 +243,60 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <table>
 <thead>
 <tr>
-<th>Variable</th>
-<th>Range</th>
-<th>Description</th>
-<th>Reference</th>
+<th style="text-align:left">Variable</th>
+<th style="text-align:center">Time period</th>
+<th style="text-align:center">Description</th>
+<th style="text-align:center">Reference</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>$\alpha$</td>
-<td>1930–1954</td>
-<td>Tempor</td>
-<td><a href="https://pascalmichaillat.org/1.pdf" target="_blank">Michaillat (2012)</a>
+<td style="text-align:left">$\alpha$</td>
+<td style="text-align:center">1930–1954</td>
+<td style="text-align:center">Tempor</td>
+<td style="text-align:center"><a href="https://pascalmichaillat.org/1.pdf" target="_blank">Michaillat (2012)</a>
 </td>
 </tr>
 <tr>
-<td>$\lambda$</td>
-<td>1930–1954</td>
-<td>Fugiat</td>
-<td><a href="https://pascalmichaillat.org/2.pdf" target="_blank">Michaillat (2014)</a>
+<td style="text-align:left">$\lambda$</td>
+<td style="text-align:center">1930–1954</td>
+<td style="text-align:center">Fugiat</td>
+<td style="text-align:center"><a href="https://pascalmichaillat.org/2.pdf" target="_blank">Michaillat (2014)</a>
 </td>
 </tr>
 <tr>
-<td>$\gamma$</td>
-<td>1833–1954</td>
-<td>Duis</td>
-<td><a href="https://pascalmichaillat.org/4.pdf" target="_blank">Landais et al (2018)</a>
+<td style="text-align:left">$\gamma$</td>
+<td style="text-align:center">1833–1954</td>
+<td style="text-align:center">Duis</td>
+<td style="text-align:center"><a href="https://pascalmichaillat.org/4.pdf" target="_blank">Landais et al (2018)</a>
 </td>
 </tr>
 <tr>
-<td>$\omega$</td>
-<td>1930–1994</td>
-<td>Excepteur</td>
-<td><a href="https://pascalmichaillat.org/11.pdf" target="_blank">Michaillat &amp; Saez (2021)</a>
+<td style="text-align:left">$\omega$</td>
+<td style="text-align:center">1930–1994</td>
+<td style="text-align:center">Excepteur</td>
+<td style="text-align:center"><a href="https://pascalmichaillat.org/11.pdf" target="_blank">Michaillat &amp; Saez (2021)</a>
 </td>
 </tr>
 <tr>
-<td>$\sigma$</td>
-<td>1990–2023</td>
-<td>Lorem</td>
-<td><a href="https://pascalmichaillat.org/10.pdf" target="_blank">Akerlof &amp; Michaillat (2018)</a>
+<td style="text-align:left">$\sigma$</td>
+<td style="text-align:center">1990–2023</td>
+<td style="text-align:center">Lorem</td>
+<td style="text-align:center"><a href="https://pascalmichaillat.org/10.pdf" target="_blank">Akerlof &amp; Michaillat (2018)</a>
 </td>
 </tr>
 <tr>
-<td>$\chi^2$</td>
-<td>1990–2023</td>
-<td>Labore</td>
-<td><a href="https://pascalmichaillat.org/14.pdf" target="_blank">Michaillat (2023)</a>
+<td style="text-align:left">$\chi^2$</td>
+<td style="text-align:center">1990–2023</td>
+<td style="text-align:center">Labore</td>
+<td style="text-align:center"><a href="https://pascalmichaillat.org/14.pdf" target="_blank">Michaillat (2023)</a>
 </td>
 </tr>
 <tr>
-<td>$c(t)$</td>
-<td>1890–1900</td>
-<td>Pariatur</td>
-<td><a href="https://pascalmichaillat.org/5.pdf" target="_blank">Landais et al (2018)</a>
+<td style="text-align:left">$c(t)$</td>
+<td style="text-align:center">1890–1900</td>
+<td style="text-align:center">Pariatur</td>
+<td style="text-align:center"><a href="https://pascalmichaillat.org/5.pdf" target="_blank">Landais et al (2018)</a>
 </td>
 </tr>
 </tbody>

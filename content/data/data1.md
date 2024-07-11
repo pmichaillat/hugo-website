@@ -42,8 +42,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Description of variables
 
-|  Variable |   Range   | Description |                             Reference                              |
-| --------- | --------- | ----------- | ------------------------------------------------------------------ |
+|  Variable |   Time period  | Description |                             Reference                              |
+| :--------- | :---------: | :-----------: | :-----------------------------------------------------------------: |
 | $\alpha$  | 1930–1954 | Tempor      | [Michaillat (2012)](https://pascalmichaillat.org/1.pdf)            |
 | $\lambda$ | 1930–1954 | Fugiat      | [Michaillat (2014)](https://pascalmichaillat.org/2.pdf)            |
 | $\gamma$  | 1833–1954 | Duis        | [Landais et al (2018)](https://pascalmichaillat.org/4.pdf)         |
