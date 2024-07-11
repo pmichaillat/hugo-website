@@ -20,14 +20,12 @@ This dataset contains all irregular verbs in [all known Romance languages](http:
 
 ---
 
-## View
+## View datasets
 
-+ Irregular verbs in Portugese: [dataset](https://github.com/pmichaillat/u-star)
-+ Irregular verbs in Italian: [dataset](https://github.com/pmichaillat/unemployment-gap)
-+ Irregular verbs in French: [dataset](https://github.com/pmichaillat/job-rationing)
-+ Irregular verbs in Spanish: [dataset](https://github.com/pmichaillat/countercyclical-multiplier)
-+ Construction of the Portugese and Italian datasets: [paper](https://pascalmichaillat.org/1.pdf) and [online appendix](https://pascalmichaillat.org/1a.pdf)
-+ Construction of the Spanish and French datasets: [paper](https://pascalmichaillat.org/2.pdf)
++ [Irregular verbs in Portugese](https://github.com/pmichaillat/u-star)
++ [Irregular verbs in Italian](https://github.com/pmichaillat/unemployment-gap)
++ [Irregular verbs in French](https://github.com/pmichaillat/job-rationing)
++ [Irregular verbs in Spanish](https://github.com/pmichaillat/countercyclical-multiplier)
 
 ---
 
@@ -44,14 +42,15 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Description of variables
 
-+ Lorem ipsum dolor sit amet
-+ Consectetur adipisicing elit
-+ Sed do eiusmod
-+ Tempor incididunt ut labore et dolore magna aliqua
-+ Ut enim ad minim veniam
-+ Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+|  Symbol  |   Range   |  Variable |                        Note                        |
+| -------- | --------- | --------- | -------------------------------------------------- |
+| $\alpha$ | 1930–1954 | Tempor    | Lorem ipsum dolor sit amet                         |
+| $\beta$  | 1930–1954 | Fugiat    | Consectetur adipisicing elit                       |
+| $\gamma$ | 1833–1954 | Duis      | Sed do eiusmod                                     |
+| $\zeta$  | 1930–1994 | Excepteur | Tempor incididunt ut labore et dolore magna aliqua |
+| $\nu$    | 1990–2023 | Lorem     | Ut enim ad minim veniam                            |
+| $\chi$   | 1990–2023 | Labore    | Quis laboris nisi ut aliquip ex ea commodo         |
+| $\Omega$ | 1890–1900 | Pariatur  | Excepteur sint $\beta > \alpha$                    |
 
 ---
 
@@ -83,7 +82,7 @@ file_path = 'data.csv'
 with open(file_path, 'r') as file:
 ```
 
-#### Read data:
+### Read data:
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur.
@@ -92,7 +91,7 @@ cillum dolore eu fugiat nulla pariatur.
     lines = file.readlines()
 ```
 
-#### Parse and process data:
+### Parse and process data:
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur.
@@ -105,7 +104,7 @@ for line in lines:
     data.extend(line_data)  # Extend the main list with values from the line
 ```
 
-##### Compute summary statistics using NumPy:
+#### Compute summary statistics using NumPy:
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -118,7 +117,7 @@ min_value = np.min(data_array)
 max_value = np.max(data_array)
 ```
 
-##### Display summary statistics:
+#### Display summary statistics:
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -132,3 +131,15 @@ print(f"Standard Deviation: {std_dev}")
 print(f"Minimum Value: {min_value}")
 print(f"Maximum Value: {max_value}")
 ```
+
+### Additional references on unrelated topics
+
+| Title | Author | Year | Link |
+| :----- | :------: | :----: | :----: |
+| Do Matching Frictions Explain Unemployment? Not in Bad Times | P. Michaillat | 2012 | [pascalmichaillat.org/1.pdf](https://pascalmichaillat.org/1.pdf) | 
+| A Theory of Countercyclical Government Multiplier | P. Michaillat | 2014 | [pascalmichaillat.org/2.pdf](https://pascalmichaillat.org/2.pdf) | 
+| A Macroeconomic Approach to Optimal Unemployment Insurance: Theory| C. Landais et al.  | 2018 | [pascalmichaillat.org/4.pdf](https://pascalmichaillat.org/4.pdf) | 
+| A Macroeconomic Approach to Optimal Unemployment Insurance: Applications | C. Landais et al.  | 2018 | [pascalmichaillat.org/5.pdf](https://pascalmichaillat.org/5.pdf) | 
+| Persistence of False Paradigms in Low-Power Sciences | G. Akerlof & P. Michaillat | 2018 | [pascalmichaillat.org/10.pdf](https://pascalmichaillat.org/10.pdf) | 
+| Resolving New Keynesian Anomalies with Wealth in the Utility Function | P. Michaillat & E. Saez | 2021 | [pascalmichaillat.org/11.pdf](https://pascalmichaillat.org/11.pdf) | 
+| Modeling Job Stealing | P. Michaillat | 2023 | [pascalmichaillat.org/14.pdf](https://pascalmichaillat.org/14.pdf) | 

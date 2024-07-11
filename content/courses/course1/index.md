@@ -100,15 +100,3 @@ This section concludes by comparing Portuguese and Spanish irregular verbs to ir
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-## Additional references on unrelated topics
-
-| Title | Author | Year | Link |
-| :----- | :------: | :----: | :----: |
-| Do Matching Frictions Explain Unemployment? Not in Bad Times | P. Michaillat | 2012 | [pascalmichaillat.org/1.pdf](https://pascalmichaillat.org/1.pdf) | 
-| A Theory of Countercyclical Government Multiplier | P. Michaillat | 2014 | [pascalmichaillat.org/2.pdf](https://pascalmichaillat.org/2.pdf) | 
-| A Macroeconomic Approach to Optimal Unemployment Insurance: Theory| C. Landais et al.  | 2018 | [pascalmichaillat.org/4.pdf](https://pascalmichaillat.org/4.pdf) | 
-| A Macroeconomic Approach to Optimal Unemployment Insurance: Applications | C. Landais et al.  | 2018 | [pascalmichaillat.org/5.pdf](https://pascalmichaillat.org/5.pdf) | 
-| Persistence of False Paradigms in Low-Power Sciences | G. Akerlof & P. Michaillat | 2018 | [pascalmichaillat.org/10.pdf](https://pascalmichaillat.org/10.pdf) | 
-| Resolving New Keynesian Anomalies with Wealth in the Utility Function | P. Michaillat & E. Saez | 2021 | [pascalmichaillat.org/11.pdf](https://pascalmichaillat.org/11.pdf) | 
-| Modeling Job Stealing | P. Michaillat | 2023 | [pascalmichaillat.org/14.pdf](https://pascalmichaillat.org/14.pdf) | 
