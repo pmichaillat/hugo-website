@@ -42,15 +42,16 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Description of variables
 
-|  Symbol  |   Range   |  Variable |                        Note                        |
-| -------- | --------- | --------- | -------------------------------------------------- |
-| $\alpha$ | 1930–1954 | Tempor    | Lorem ipsum dolor sit amet                         |
-| $\beta$  | 1930–1954 | Fugiat    | Consectetur adipisicing elit                       |
-| $\gamma$ | 1833–1954 | Duis      | Sed do eiusmod                                     |
-| $\zeta$  | 1930–1994 | Excepteur | Tempor incididunt ut labore et dolore magna aliqua |
-| $\nu$    | 1990–2023 | Lorem     | Ut enim ad minim veniam                            |
-| $\chi$   | 1990–2023 | Labore    | Quis laboris nisi ut aliquip ex ea commodo         |
-| $\Omega$ | 1890–1900 | Pariatur  | Excepteur sint $\beta > \alpha$                    |
+|  Variable |   Range   | Description |                             Reference                              |
+| --------- | --------- | ----------- | ------------------------------------------------------------------ |
+| $\alpha$  | 1930–1954 | Tempor      | [Michaillat (2012)](https://pascalmichaillat.org/1.pdf)            |
+| $\lambda$ | 1930–1954 | Fugiat      | [Michaillat (2014)](https://pascalmichaillat.org/2.pdf)            |
+| $\gamma$  | 1833–1954 | Duis        | [Landais et al (2018)](https://pascalmichaillat.org/4.pdf)         |
+| $\omega$  | 1930–1994 | Excepteur   | [Michaillat & Saez (2021)](https://pascalmichaillat.org/11.pdf)    |
+| $\sigma$  | 1990–2023 | Lorem       | [Akerlof & Michaillat (2018)](https://pascalmichaillat.org/10.pdf) |
+| $\chi^2$  | 1990–2023 | Labore      | [Michaillat (2023)](https://pascalmichaillat.org/14.pdf)           |
+| $c(t)$    | 1890–1900 | Pariatur    | [Landais et al (2018)](https://pascalmichaillat.org/5.pdf)         |
+
 
 ---
 
@@ -131,15 +132,3 @@ print(f"Standard Deviation: {std_dev}")
 print(f"Minimum Value: {min_value}")
 print(f"Maximum Value: {max_value}")
 ```
-
-### Additional references on unrelated topics
-
-| Title | Author | Year | Link |
-| :----- | :------: | :----: | :----: |
-| Do Matching Frictions Explain Unemployment? Not in Bad Times | P. Michaillat | 2012 | [pascalmichaillat.org/1.pdf](https://pascalmichaillat.org/1.pdf) | 
-| A Theory of Countercyclical Government Multiplier | P. Michaillat | 2014 | [pascalmichaillat.org/2.pdf](https://pascalmichaillat.org/2.pdf) | 
-| A Macroeconomic Approach to Optimal Unemployment Insurance: Theory| C. Landais et al.  | 2018 | [pascalmichaillat.org/4.pdf](https://pascalmichaillat.org/4.pdf) | 
-| A Macroeconomic Approach to Optimal Unemployment Insurance: Applications | C. Landais et al.  | 2018 | [pascalmichaillat.org/5.pdf](https://pascalmichaillat.org/5.pdf) | 
-| Persistence of False Paradigms in Low-Power Sciences | G. Akerlof & P. Michaillat | 2018 | [pascalmichaillat.org/10.pdf](https://pascalmichaillat.org/10.pdf) | 
-| Resolving New Keynesian Anomalies with Wealth in the Utility Function | P. Michaillat & E. Saez | 2021 | [pascalmichaillat.org/11.pdf](https://pascalmichaillat.org/11.pdf) | 
-| Modeling Job Stealing | P. Michaillat | 2023 | [pascalmichaillat.org/14.pdf](https://pascalmichaillat.org/14.pdf) | 
