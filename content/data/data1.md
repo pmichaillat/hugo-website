@@ -40,18 +40,16 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
-## Description of variables
+## Description of data parameters
 
-|  Variable |   Time period  | Description |                             Reference                              |
-| :--------- | :---------: | :-----------: | :-----------------------------------------------------------------: |
-| $\alpha$  | 1930–1954 | Tempor      | [Michaillat (2012)](https://pascalmichaillat.org/1.pdf)            |
-| $\lambda$ | 1930–1954 | Fugiat      | [Michaillat (2014)](https://pascalmichaillat.org/2.pdf)            |
-| $\gamma$  | 1833–1954 | Duis        | [Landais et al (2018)](https://pascalmichaillat.org/4.pdf)         |
-| $\omega$  | 1930–1994 | Excepteur   | [Michaillat & Saez (2021)](https://pascalmichaillat.org/11.pdf)    |
-| $\sigma$  | 1990–2023 | Lorem       | [Akerlof & Michaillat (2018)](https://pascalmichaillat.org/10.pdf) |
-| $\chi^2$  | 1990–2023 | Labore      | [Michaillat (2023)](https://pascalmichaillat.org/14.pdf)           |
-| $c(t)$    | 1890–1900 | Pariatur    | [Landais et al (2018)](https://pascalmichaillat.org/5.pdf)         |
-
+| Parameter | Time period | Description |   Value   |
+| :-------- | :---------: | :---------: | :-------: |
+| $\alpha$  |  1930–1954  |    Tempor   |   $1/2$   |
+| $\lambda$ |  1930–1954  |    Fugiat   |     2     |
+| $\gamma$  |  1833–1954  |     Duis    |  $\ln(3)$ |
+| $\omega$  |  1930–1994  |  Excepteur  | $10^{-4}$ |
+| $\sigma$  |  1990–2023  |    Lorem    |   $1.5$   |
+| $\chi^2$  |  1990–2023  |    Labore   |  $\pi^2$  |
 
 ---
 
