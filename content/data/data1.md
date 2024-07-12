@@ -1,7 +1,7 @@
 ---
 title: "List of Irregular Verbs Across Romance Languages" 
 date: 2013-03-07
-lastmod: 2024-05-08
+lastmod: 2024-07-12
 tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","dataset","python"]
 author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
 description: "This dataset contains all irregular verbs in known Romance languages."
@@ -42,14 +42,14 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Description of data parameters
 
-| Parameter | Time period | Description |   Value   |
-| :-------- | :---------: | :---------: | :-------: |
-| $\alpha$  |  1930–1954  |    Tempor   |   $1/2$   |
-| $\lambda$ |  1930–1954  |    Fugiat   |     2     |
-| $\gamma$  |  1833–1954  |     Duis    |  $\ln(3)$ |
-| $\omega$  |  1930–1994  |  Excepteur  | $10^{-4}$ |
-| $\sigma$  |  1990–2023  |    Lorem    |   $1.5$   |
-| $\chi^2$  |  1990–2023  |    Labore   |  $\pi^2$  |
+| Parameter | Time period |      Description      |   Value   |
+| :-------- | :---------: | :-------------------: | :-------: |
+| $\alpha$  |  1930–1954  |    Tempor dolor in    |   $1/2$   |
+| $\lambda$ |  1930–1954  |  Fugiat sint occaecat |     2     |
+| $\gamma$  |  1833–1954  | Duis officia deserunt |  $\ln(3)$ |
+| $\omega$  |  1930–1994  |       Excepteur       | $10^{-4}$ |
+| $\sigma$  |  1990–2023  |    Lorem culpa qui    |   $1.5$   |
+| $\chi^2$  |  1990–2023  |    Labore et dolore   |  $\pi^2$  |
 
 ---
 

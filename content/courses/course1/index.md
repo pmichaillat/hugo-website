@@ -1,7 +1,7 @@
 ---
 title: "Lectures at the Villa of Reduced Circumstances"
 date: 2003-03-10
-lastmod: 2024-05-08
+lastmod: 2024-07-12
 tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
 author: "Moritz-Maria von Igelfeld"
 description: "This graduate course presents classical results in Romance philology." 
@@ -26,7 +26,13 @@ This course covers research topics related to Romance philology. It focuses espe
 + How are Portuguese irregular verbs different from Spanish irregular verbs? 
 + What is the role of Latin and Greek in these irregularities? 
 + What about irregular verbs in other Romance languages?
-
+    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. 
+    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    + Excepteur sint occaecat cupidatat non proident.
+    
+Sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Part 1: Review of Romance languages
 
@@ -38,7 +44,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 + [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
 + [Lecture video 2](https://youtu.be/a2tbm5ljZJM) – This is a another lecture video.
-+ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is a bit longer.
++ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
 
 ##### Lecture notes
 
@@ -48,7 +54,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 + [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read.
 + [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
-+ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex and is optional reading.
++ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
 
 ## Part 2: Portugese irregular verbs
 

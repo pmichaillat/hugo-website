@@ -31,7 +31,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://pascalmichaillat.org/hugo-website/data/data1/" /><meta property="article:section" content="data" />
 <meta property="article:published_time" content="2013-03-07T00:00:00+00:00" />
-<meta property="article:modified_time" content="2024-05-08T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-07-12T00:00:00+00:00" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="List of Irregular Verbs Across Romance Languages"/>
@@ -68,11 +68,11 @@
   "keywords": [
     "Romance languages", "philology", "irregular verbs", "Portuguese", "Italian", "French", "Spanish", "dataset", "python"
   ],
-  "articleBody": "Overview This dataset contains all irregular verbs in all known Romance languages —including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nView datasets Irregular verbs in Portugese Irregular verbs in Italian Irregular verbs in French Irregular verbs in Spanish Source of data Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nDescription of data parameters Parameter Time period Description Value $\\alpha$ 1930–1954 Tempor $1/2$ $\\lambda$ 1930–1954 Fugiat 2 $\\gamma$ 1833–1954 Duis $\\ln(3)$ $\\omega$ 1930–1994 Excepteur $10^{-4}$ $\\sigma$ 1990–2023 Lorem $1.5$ $\\chi^2$ 1990–2023 Labore $\\pi^2$ Using data with Python Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nStart Python: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nimport numpy as np import pandas as pd Open the file: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nfile_path = 'data.csv' with open(file_path, 'r') as file: Read data: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nlines = file.readlines() Parse and process data: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\ndata = [] for line in lines: line_data = line.strip().split(',') # Split the line into a list of values line_data = [float(value) for value in line_data] # Convert values to floats data.extend(line_data) # Extend the main list with values from the line Compute summary statistics using NumPy: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\ndata_array = np.array(data) # Convert the list to a NumPy array mean = np.mean(data_array) median = np.median(data_array) std_dev = np.std(data_array) min_value = np.min(data_array) max_value = np.max(data_array) Display summary statistics: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nprint(f\"Mean: {mean}\") print(f\"Median: {median}\") print(f\"Standard Deviation: {std_dev}\") print(f\"Minimum Value: {min_value}\") print(f\"Maximum Value: {max_value}\") ",
-  "wordCount" : "523",
+  "articleBody": "Overview This dataset contains all irregular verbs in all known Romance languages —including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nView datasets Irregular verbs in Portugese Irregular verbs in Italian Irregular verbs in French Irregular verbs in Spanish Source of data Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nDescription of data parameters Parameter Time period Description Value $\\alpha$ 1930–1954 Tempor dolor in $1/2$ $\\lambda$ 1930–1954 Fugiat sint occaecat 2 $\\gamma$ 1833–1954 Duis officia deserunt $\\ln(3)$ $\\omega$ 1930–1994 Excepteur $10^{-4}$ $\\sigma$ 1990–2023 Lorem culpa qui $1.5$ $\\chi^2$ 1990–2023 Labore et dolore $\\pi^2$ Using data with Python Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nStart Python: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nimport numpy as np import pandas as pd Open the file: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nfile_path = 'data.csv' with open(file_path, 'r') as file: Read data: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nlines = file.readlines() Parse and process data: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\ndata = [] for line in lines: line_data = line.strip().split(',') # Split the line into a list of values line_data = [float(value) for value in line_data] # Convert values to floats data.extend(line_data) # Extend the main list with values from the line Compute summary statistics using NumPy: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\ndata_array = np.array(data) # Convert the list to a NumPy array mean = np.mean(data_array) median = np.median(data_array) std_dev = np.std(data_array) min_value = np.min(data_array) max_value = np.max(data_array) Display summary statistics: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nprint(f\"Mean: {mean}\") print(f\"Median: {median}\") print(f\"Standard Deviation: {std_dev}\") print(f\"Minimum Value: {min_value}\") print(f\"Maximum Value: {max_value}\") ",
+  "wordCount" : "533",
   "inLanguage": "en",
   "datePublished": "2013-03-07T00:00:00Z",
-  "dateModified": "2024-05-08T00:00:00Z",
+  "dateModified": "2024-07-12T00:00:00Z",
   "author":[{
     "@type": "Person",
     "name": "Patrick Fitzcarron O'Leary"
@@ -253,19 +253,19 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <tr>
 <td style="text-align:left">$\alpha$</td>
 <td style="text-align:center">1930–1954</td>
-<td style="text-align:center">Tempor</td>
+<td style="text-align:center">Tempor dolor in</td>
 <td style="text-align:center">$1/2$</td>
 </tr>
 <tr>
 <td style="text-align:left">$\lambda$</td>
 <td style="text-align:center">1930–1954</td>
-<td style="text-align:center">Fugiat</td>
+<td style="text-align:center">Fugiat sint occaecat</td>
 <td style="text-align:center">2</td>
 </tr>
 <tr>
 <td style="text-align:left">$\gamma$</td>
 <td style="text-align:center">1833–1954</td>
-<td style="text-align:center">Duis</td>
+<td style="text-align:center">Duis officia deserunt</td>
 <td style="text-align:center">$\ln(3)$</td>
 </tr>
 <tr>
@@ -277,13 +277,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <tr>
 <td style="text-align:left">$\sigma$</td>
 <td style="text-align:center">1990–2023</td>
-<td style="text-align:center">Lorem</td>
+<td style="text-align:center">Lorem culpa qui</td>
 <td style="text-align:center">$1.5$</td>
 </tr>
 <tr>
 <td style="text-align:left">$\chi^2$</td>
 <td style="text-align:center">1990–2023</td>
-<td style="text-align:center">Labore</td>
+<td style="text-align:center">Labore et dolore</td>
 <td style="text-align:center">$\pi^2$</td>
 </tr>
 </tbody>
