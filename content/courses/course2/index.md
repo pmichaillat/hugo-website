@@ -71,8 +71,8 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 ##### Lecture videos
 
-+ [Lecture video 3](https://youtu.be/ZgYtFURIu4A)
-+ [Lecture video 4](https://youtu.be/6j2Debc6LcI)
++ [Lecture video 3](https://youtu.be/GfpKnLDTwyM)
++ [Lecture video 4](https://youtu.be/UHnSkIZcjBs)
 
 ##### Compulsory readings
 
@@ -105,22 +105,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 + [Lecture video 5](https://youtu.be/Q0y2EtgTpXM)
 + [Lecture slides 6](https://youtu.be/0ZO87WsOYrY)
-
----
-
-## Part 4: Modernization of profanity
-
-This section turns to the modernization of profanity over the ages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-##### Lecture videos
-
-| Number |             Link             |            Description            |
-| ------ | ---------------------------- | --------------------------------- |
-|      7 | https://youtu.be/rgcpMgKfCk8 | Ut enim ad minim veniam           |
-|      8 | https://youtu.be/7O9wMwcABaI | Excepteur sint occaecat cupidatat |
-|      9 | https://youtu.be/RZ1jK-S37sQ | Lorem ipsum dolor sit amet        |
 
 
 ---

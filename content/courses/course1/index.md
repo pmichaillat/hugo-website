@@ -43,7 +43,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ##### Lecture videos
 
 + [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-+ [Lecture video 2](https://youtu.be/a2tbm5ljZJM) – This is a another lecture video.
++ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
 + [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
 
 ##### Lecture notes
@@ -62,8 +62,8 @@ This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, c
 
 ##### Lecture videos
 
-+ [Lecture video 4](https://youtu.be/tU0dtS9iiOk)
-+ [Lecture video 5](https://youtu.be/GMIKykwvrGI)
++ [Lecture video 4](https://youtu.be/IZI0_WwIyb8)
++ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8)
 + [Lecture video 6](https://youtu.be/79MSNfp1rw0)
 
 ##### Lecture notes
@@ -84,9 +84,6 @@ This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit
 
 + [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
 + [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
-+ [Lecture video 9](https://youtu.be/kDZ65v3ZNjc)
-+ [Lecture video 10](https://youtu.be/mbaWDVl3A10)
-+ [Lecture video 11](https://youtu.be/e7TKoZOplb4)
 + [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
 
 ##### Basic readings
