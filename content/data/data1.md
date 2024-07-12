@@ -20,12 +20,12 @@ This dataset contains all irregular verbs in [all known Romance languages](http:
 
 ---
 
-## View datasets
+## View dataset
 
-+ [Irregular verbs in Portugese](https://github.com/pmichaillat/u-star)
-+ [Irregular verbs in Italian](https://github.com/pmichaillat/unemployment-gap)
-+ [Irregular verbs in French](https://github.com/pmichaillat/job-rationing)
-+ [Irregular verbs in Spanish](https://github.com/pmichaillat/countercyclical-multiplier)
++ Irregular verbs in Portugese: [data](https://github.com/pmichaillat/u-star)
++ Irregular verbs in Italian: [data](https://github.com/pmichaillat/unemployment-gap)
++ Irregular verbs in French: [data](https://github.com/pmichaillat/job-rationing)
++ Irregular verbs in Spanish: [data](https://github.com/pmichaillat/countercyclical-multiplier)
 
 ---
 
@@ -123,11 +123,11 @@ print(f"Maximum Value: {max_value}")
 
 ## Description of simulation parameters
 
-| Parameter |   Value   | Time period |           Description            |
-| :-------: | :-------: | :---------: | :------------------------------: |
-|  $\alpha$ |   $1/2$   |  1930–1954  |         Tempor dolor in          |
-| $\lambda$ |   $e/2$   |  1930–1954  |       Fugiat sint occaecat       |
-|  $\gamma$ |  $\ln(3)$ |  1833–1954  |      Duis officia deserunt       |
-|  $\omega$ | $10^{-4}$ |  1930–1994  | Excepteur et dolore magna aliqua |
-|  $\sigma$ |   $1.5$   |  1990–2023  |         Lorem culpa qui          |
-|  $\chi^2$ |  $\pi^2$  |  1990–2023  |         Labore et dolore         |
+| Parameter |   Value   |  Language  | Time period |           Description            |
+| :-------: | :-------: | ---------- | :---------: | :------------------------------: |
+|  $\alpha$ |   $1/2$   | French     |  1930–1954  |         Tempor dolor in          |
+| $\lambda$ |   $e/2$   | French     |  1930–1954  |       Fugiat sint occaecat       |
+|  $\gamma$ |  $\ln(3)$ | Spanish    |  1833–1954  |      Duis officia deserunt       |
+|  $\omega$ | $10^{-4}$ | Italian    |  1930–1994  | Excepteur et dolore magna aliqua |
+|  $\sigma$ |   $1.5$   | Portuguese |  1990–2023  |         Lorem culpa qui          |
+|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         |
