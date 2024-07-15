@@ -31,5 +31,5 @@
 }
 
 #searchResults .focus {
-    border: 1px solid var(--midcolor);
+    border: 1px solid var(--darkcolor);
 }

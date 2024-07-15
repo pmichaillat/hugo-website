@@ -31,7 +31,7 @@
 }
 
 .button {
-    background: var(--tertiary);
+    background: var(--entry);
     border: 1px solid rgb(207, 207, 207);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
@@ -44,5 +44,5 @@
 }
 
 .button:hover {
-    background: var(--midcolor);
+    background: var(--lightcolor);
 }
