@@ -1,5 +1,5 @@
 {{- $icon_name := ( trim .name " " | lower )}}
-<!-- New icons in this template -->
+<!-- Custom icons -->
 {{- if (eq $icon_name "location") -}}
 <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
 <path fill="currentColor" d="M12 6.5A2.5 2.5 0 0 1 14.5 9a2.5 2.5 0 0 1-2.5 2.5A2.5 2.5 0 0 1 9.5 9A2.5 2.5 0 0 1 12 6.5M12 2a7 7 0 0 1 7 7c0 5.25-7 13-7 13S5 14.25 5 9a7 7 0 0 1 7-7m0 2a5 5 0 0 0-5 5c0 1 0 3 5 9.71C17 12 17 10 17 9a5 5 0 0 0-5-5Z"/>
@@ -19,7 +19,7 @@
 <path d="M24,60H152a32,32,0,0,1,32,32v96a8,8,0,0,1-8,8H48a32,32,0,0,1-32-32V68A8,8,0,0,1,24,60Z" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"/>
 <polyline points="184 112 240 80 240 176 184 144" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"/>
 </svg>
-<!-- Existing icons modified by this template -->
+<!-- Modified PaperMod icons -->
 {{- else if (eq $icon_name "google scholar") -}}
 <svg viewBox="0 0 24 25" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">     
 <path d="M5.242 13.769L0.5 9.5 12 1l11.5 9-5.242 3.769C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z" />
@@ -28,7 +28,7 @@
 <svg viewBox="-2 -2 27 27" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 <path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/>
 </svg>
-<!-- Existing icons from the Papermod theme -->
+<!-- Papermod icons -->
 {{- else if (eq $icon_name "123rf") -}}
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
     stroke-linecap="round" stroke-linejoin="round">
