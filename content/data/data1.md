@@ -22,7 +22,7 @@ This dataset contains all irregular verbs in [all known Romance languages](http:
 
 ## View dataset
 
-+ Irregular verbs in Portugese: [data](https://github.com/pmichaillat/u-star)
++ Irregular verbs in Portugese: [data](https://github.com/pmichaillat/feru)
 + Irregular verbs in Italian: [data](https://github.com/pmichaillat/unemployment-gap)
 + Irregular verbs in French: [data](https://github.com/pmichaillat/job-rationing)
 + Irregular verbs in Spanish: [data](https://github.com/pmichaillat/countercyclical-multiplier)
