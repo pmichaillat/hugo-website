@@ -213,7 +213,6 @@
     line-height: var(--lineheight);
     background: var(--code-bg);
     border-radius: 2px;
-    border: 1px solid var(--border);
 }
 
 .post-content pre code {
@@ -341,7 +340,6 @@
 .paginav {
     border-radius: var(--radius);
     background: var(--code-bg);
-    border: 1px solid var(--border);
 }
 
 .post-tags a {

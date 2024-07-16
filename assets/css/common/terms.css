@@ -7,10 +7,9 @@
 .terms-tags a {
     display: block;
     padding: 3px 10px;
-    background: var(--entry);
+    background: var(--tertiary);
     border-radius: 6px;
     transition: transform 0.1s;
-    border: 1px solid var(--border);
     font-size: var(--homesize);
 }
 

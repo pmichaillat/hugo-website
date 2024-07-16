@@ -62,7 +62,7 @@ import pandas as pd
 
 ### Open the file:
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat `data.csv`.
 
 ```python
 file_path = 'data.csv'
@@ -80,8 +80,8 @@ cillum dolore eu fugiat nulla pariatur.
 
 ### Parse and process data:
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+Duis aute `line_data` irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur `data.extend`.
 
 ```python
 data = []
@@ -93,7 +93,7 @@ for line in lines:
 
 #### Compute summary statistics using NumPy:
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum: `data_array`. 
 
 ```python
 data_array = np.array(data)  # Convert the list to a NumPy array
@@ -109,7 +109,7 @@ max_value = np.max(data_array)
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
+consequat `print`.
 
 ```python
 print(f"Mean: {mean}")
