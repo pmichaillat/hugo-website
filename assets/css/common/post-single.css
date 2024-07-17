@@ -26,10 +26,6 @@
     box-shadow: 0 1px 0 var(--secondary);
 }
 
-.breadcrumbs a {
-    font-size: 15px;
-}
-
 .post-content {
     color: var(--content);
     line-height: var(--lineheight);
