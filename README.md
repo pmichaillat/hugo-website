@@ -53,9 +53,9 @@ And here is an overview of the desktop performance:
 
 ## Software
 
-The website was built with Hugo v0.128.2 on an Apple Silicon Mac running macOS Sonoma 14.5. The updates to Hugo v0.120 and then to Hugo v0.123 introduced some issues with previous versions of the template, but these issues are now resolved.[^1] 
+The website was built with Hugo v0.128.2 on an Apple Silicon Mac running macOS Sonoma 14.5. The website was tested and validated on Safari 17.5 on a Mac and on Safari on an iPhone with iOS 17.5.[^1]
 
-[^1]: The issue caused by the update to Hugo v0.120 is [#1325 in the PaperMod repo](https://github.com/adityatelange/hugo-PaperMod/issues/1325). The issue caused by the update to Hugo v0.123 is [#1449 in the PaperMod repo](https://github.com/adityatelange/hugo-PaperMod/issues/1449).
+[^1]:  The updates to Hugo v0.120 and then to Hugo v0.123 introduced some issues with previous versions of the template. The issue caused by the update to Hugo v0.120 is [#1325 in the PaperMod repo](https://github.com/adityatelange/hugo-PaperMod/issues/1325). The issue caused by the update to Hugo v0.123 is [#1449 in the PaperMod repo](https://github.com/adityatelange/hugo-PaperMod/issues/1449). These issues are now resolved
 
 While the template should also work on other operating systems and with other versions of Hugo, compatibility cannot be guaranteed. Users on Windows or Linux systems, or those using different Hugo versions, may need to make minor adjustments. Please report any compatibility issues or bugs you encounter to help improve cross-platform support.
 
