@@ -79,6 +79,7 @@ The content of this repository is licensed under the terms of the MIT License.
 + [Ismael Moreno-Martinez's website](https://ismaelmorenomartinez.eu) ([source code](https://github.com/ismaelmorenomartinez/ismaelmorenomartinez.github.io))
 + [Lucas Warwar's website](https://lucaswarwar.github.io) ([source code](https://github.com/lucaswarwar/lucaswarwar.github.io))
 + [Franz Louis Cesista's website](https://leloykun.github.io) ([source code](https://github.com/leloykun/leloykun.github.io))
++ [Kostas Bimpikis's website](https://stanford.edu/~kostasb/)
 + [Pragathi Praveena's website](https://pragathipraveena.com)
 + [Qiwei He's website](https://www.qiwei-he.com)
 + [Pierre Bardier's website](https://pierrebard.github.io/pierre-bardier/)
