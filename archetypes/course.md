@@ -4,7 +4,7 @@ date: 2006-03-15
 url: /course/
 aliases:
     - /old_url.html
-tags: ["keyword 1","keyword 2"]
+tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7"]
 author: ["Course Author 1", "Course Author 2"]
 description: "Course description for search engines (less than 155 characters)" 
 summary: "Course summary for list page (less than 265 characters)
