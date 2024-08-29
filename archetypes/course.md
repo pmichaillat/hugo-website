@@ -10,7 +10,7 @@ description: "Course description for search engines (less than 155 characters)"
 summary: "Course summary for list page (less than 265 characters)
 cover:
     image: "/course_figure.png"
-    alt: "Figure from course"
+    alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
     relative: false
 editPost:
     URL: "https://youtube.com/course_playlist"
