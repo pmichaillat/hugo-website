@@ -13,13 +13,13 @@ menu:
     main:
         - name: About Me
           url: books/
-          weight: 5 
+          weight: 1 
         - name: Research
           url: papers/
           weight: 2
-        - name: Data
+        - name: Outreach
           url: data/
-          weight: 4 
+          weight: 3 
 
 params:
     description: "I am a MS student in the UConn EEB department interested in Parasite imaging and phylogenetics. Parasitic copepod taxonomy, systematics, and host association."
