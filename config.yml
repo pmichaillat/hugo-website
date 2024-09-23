@@ -58,7 +58,7 @@ params:
               url: books/
             - name: Research
               url: papers/
-            - name: Data
+            - name: Outreach
               url: data/
 
     socialIcons:
@@ -69,7 +69,7 @@ params:
         - name: Location
           url: location/
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/netanyawilliams
         - name: Twitter
           url: https://twitter.com/NetanyaAW
 
