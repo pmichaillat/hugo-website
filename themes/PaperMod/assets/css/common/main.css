@@ -28,9 +28,12 @@
 }
 
 
-.social-icons a {
-    display: inline-flex;
-    padding: 10px;
+.social-icons {
+    padding: 12px 0;
+}
+
+.social-icons a:not(:last-of-type) {
+    margin-inline-end: 12px;
 }
 
 .social-icons a svg {
