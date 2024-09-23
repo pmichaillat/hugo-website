@@ -63,7 +63,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: public/cv.pdf
+          url: cv.pdf
         - name: Email
           url: mailto:netanya.williams@uconn.edu
         - name: Location
