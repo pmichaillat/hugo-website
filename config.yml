@@ -49,7 +49,7 @@ params:
           enabled: true
           title: Netanya Williams
           subtitle: "I am a MS student in the UConn EEB department interested in Parasite imaging and phylogenetics. Parasitic copepod taxonomy, systematics, and host association. Add more details of this is the bio area"
-          imageUrl: "public/picture.jpeg"
+          imageUrl: "okpicture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Netanya Williams
