@@ -1,6 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
 title: Moritz-Maria von Igelfeld
-paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -58,7 +57,6 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
           buttons:
             - name: Papers
               url: papers/

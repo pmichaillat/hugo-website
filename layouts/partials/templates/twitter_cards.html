@@ -1,0 +1,32 @@
+{{- if .Params.cover.image -}}
+<meta name="twitter:card" content="summary_large_image" />
+{{- if (ne $.Params.cover.relative true) }}
+<meta name="twitter:image" content="{{ .Params.cover.image | absURL }}" />
+{{- else }}
+<meta name="twitter:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}" />
+{{- end}}
+{{- else }}
+{{- $images := partial "partials/templates/_funcs/get-page-images" . -}}
+{{- with index $images 0 -}}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="{{ .Permalink }}" />
+{{- else -}}
+<meta name="twitter:card" content="summary"/>
+{{- end -}}
+{{- end }}
+<meta name="twitter:title" content="{{ .Title }}"/>
+<meta name="twitter:description" content="{{- with .Description }}{{ . }}{{- else }}{{- with .Summary}}{{ . }}{{- else }}{{- if (eq .Kind `term`) }}Research papers and course materials about: {{ .Title }}{{- else }}{{- with site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end }}{{- end -}}"/>
+{{- $twitterSite := "" }}
+{{- with site.Params.social }}
+  {{- if reflect.IsMap . }}
+    {{- $twitterSite = .twitter }}
+  {{- end }}
+{{- end }}
+
+{{- with $twitterSite }}
+  {{- $content := . }}
+  {{- if not (strings.HasPrefix . "@") }}
+    {{- $content = printf "@%v" $twitterSite }}
+  {{- end }}
+<meta name="twitter:site" content="{{ $content }}"/>
+{{- end }}
