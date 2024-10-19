@@ -1,5 +1,5 @@
 <meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{- with .Description }}{{ . }}{{- else }}{{- with .Summary}}{{ . }}{{- else }}{{- if (eq .Kind `term`) }}Research papers and course materials about: {{ .Title }}{{- else }}{{- with site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end }}{{- end -}}" />
+<meta property="og:description" content="{{- with .Description }}{{ . }}{{- else }}{{- with .Summary}}{{ . }}{{- else }}{{- if (eq .Kind `term`) }}Research and course materials about: {{ .Title }}{{- else }}{{- with site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end }}{{- end -}}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{- if .Params.cover.image -}}
