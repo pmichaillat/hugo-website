@@ -87,3 +87,4 @@ The content of this repository is licensed under the terms of the MIT License.
 + [Pragathi Praveena's website](https://pragathipraveena.com)
 + [Qiwei He's website](https://www.qiwei-he.com)
 + [Pierre Bardier's website](https://pierrebard.github.io/pierre-bardier/)
++ [Marek Wiewiórka's website](https://marekwiewiorka.org)
