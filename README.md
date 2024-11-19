@@ -83,6 +83,7 @@ The content of this repository is licensed under the terms of the MIT License.
 + [Kevin Roice's website](https://kevroi.github.io) ([source code](https://github.com/kevroi/kevroi.github.io))
 + [Daniel Barbosa's website](https://dacbarbosa.github.io) ([source code](https://github.com/dacbarbosa/dacbarbosa.github.io))
 + [Wei Zhang's website](https://weizhang-econ.github.io) ([source code](https://github.com/weizhang-econ/weizhang-econ.github.io))
++ [Ben Hermann's website](http://benhermann.eu) ([source code](https://github.com/bhermann/bhermann.github.io))
 + [Kostas Bimpikis's website](https://stanford.edu/~kostasb/)
 + [Pragathi Praveena's website](https://pragathipraveena.com)
 + [Qiwei He's website](https://www.qiwei-he.com)
