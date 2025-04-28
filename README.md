@@ -61,7 +61,7 @@ While the template should also work on other operating systems and with other ve
 
 ## License
 
-The content of this repository is licensed under the terms of the MIT License.
+This repository is licensed under the [MIT License](LICENSE.md).
 
 ## Real-world implementations
 
@@ -84,8 +84,14 @@ The content of this repository is licensed under the terms of the MIT License.
 + [Daniel Barbosa's website](https://dacbarbosa.github.io) ([source code](https://github.com/dacbarbosa/dacbarbosa.github.io))
 + [Wei Zhang's website](https://weizhang-econ.github.io) ([source code](https://github.com/weizhang-econ/weizhang-econ.github.io))
 + [Ben Hermann's website](http://benhermann.eu) ([source code](https://github.com/bhermann/bhermann.github.io))
++ [Franco Corona's website](http://fcorona.me) ([source code](https://github.com/exibios/exibios.github.io))
++ [Tom George's website](https://tomge.org) ([source code](https://github.com/TomGeorge1234/TomGeorge1234.github.io))
++ [Yucheng Zhou's website](https://yuchengzhou.com) ([source code](https://github.com/YuchengZ-Fin/YuchengZ-Fin.github.io))
++ [Arthur Douillard's website](https://arthurdouillard.com)
++ [Benjamin Hattemer's website](https://benjaminhattemer.com)
 + [Kostas Bimpikis's website](https://stanford.edu/~kostasb/)
 + [Pragathi Praveena's website](https://pragathipraveena.com)
 + [Qiwei He's website](https://www.qiwei-he.com)
 + [Pierre Bardier's website](https://pierrebard.github.io/pierre-bardier/)
 + [Marek Wiewiórka's website](https://marekwiewiorka.org)
++ [Eran Shmuëli's website](https://eranshmueli.com)
