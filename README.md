@@ -24,22 +24,25 @@ The website produced by the template can be viewed at https://pascalmichaillat.o
 + The first time that you push your repository to GitHub, you need to allow GitHub Actions and GitHub Pages so the website can be built and deployed to GitHub Pages.
 + The first step is to [ask GitHub to publish the website with a GitHub Action](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow).  GitHub offers a ready-made action to publish a Hugo website, called `Deploy Hugo site to Pages`. This action must be enabled in the [Pages Settings](https://github.com/pmichaillat/hugo-website/settings/pages) of your GitHub repository. You can view the workflow triggered by the action in the `.github/workflows/hugo.yml` file.
 + Once the GitHub Actions are enabled, GitHub will build and publish the website as soon as the repository is updated. 
-+ If you would like to update the deployment action (for instance because it became outdated and fails to deploy the site), you can find the [most recent action on GitHub]( https://github.com/actions/starter-workflows/blob/main/pages/hugo.yml). You can place this file directly in the `.github/workflows` folder to replace the old `hugo.yml` file—but make sure to set `push:
-    branches` to `["main"]`.
++ If you would like to update the deployment action (for instance because it became outdated and fails to deploy the site), you can find the [most recent action on GitHub]( https://github.com/actions/starter-workflows/blob/main/pages/hugo.yml). You can place this file directly in the `.github/workflows` folder to replace the old `hugo.yml` file—but make sure to set `push: branches` to `["main"]`.
 
 ## Usage
 
-### Development
+### Local development
 
-Navigate to the website directory and run `hugo server` in the terminal. The command builds the website on your machine and makes it available at http://localhost:1313. You can modify the content of the repository and develop your website entirely on your local machine.
+Navigate to the website directory (`cd`) and run in the terminal:
 
-### Compilation
+```bash
+hugo server
+```
 
-Once your website is ready to be made public, run `hugo` in the terminal from the website directory. When you run the `hugo` command, Hugo processes your content, templates, and other project files and generates a static website. The resulting output is placed in the `public` folder.
+The command builds the website on your machine and makes it available at http://localhost:1313, rebuilding automatically as you edit. You can modify the content of the repository and develop your website entirely on your local machine.
 
-### Deployment
+### Continuous deployment
 
-With GitHub Desktop, commit the changes and push them to the website repository on GitHub. Then, the [GitHub Action](https://github.com/pmichaillat/hugo-website/actions/workflows/hugo.yml) builds the website and deploys it to [GitHub Pages](https://github.com/pmichaillat/hugo-website/deployments/github-pages).
+Once your website is ready to be made public, commit your content or template changes and push them to the website repository on GitHub (to the default branch, `main`). It is convenient to use GitHub Desktop for this Git operation.
+
+On each push, the [GitHub Actions workflow](https://github.com/pmichaillat/hugo-website/actions/workflows/hugo.yml) invokes Hugo to generate the website and deploys the output to [GitHub Pages](https://github.com/pmichaillat/hugo-website/deployments/github-pages). During the workflow, Hugo processes your content, templates, and other project files and generates a static website.
 
 ## Performance
 
