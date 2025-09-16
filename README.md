@@ -69,24 +69,17 @@ And here is an overview of the desktop performance:
 
 This repository is licensed under the [MIT License](LICENSE.md).
 
-## Related resources
-
-+ [latex-cv](https://github.com/pmichaillat/latex-cv) - This LaTeX template produces a minimalist academic CV, which you can post on your website. The CV should be named `cv.pdf` and placed in the `static` folder. It will be accessible from the homepage via a social icon.
 
 ## Real-world implementations
 
 + [Pascal Michaillat's website](https://pascalmichaillat.org/) ([source code](https://github.com/pmichaillat/pmichaillat.github.io))
-+ [Dylan Balla-Elliott's website](https://www.dballaelliott.com) ([source code](https://github.com/dballaelliott/site))
 + [Rosa van den Ende's website](https://rosavandenende.github.io) ([source code](https://github.com/rosavandenende/rosavandenende.github.io))
 + [Samia Kabir's website](https://samiakabir.com) ([source code](https://github.com/SamiaKabir/samiakabir.github.io))
 + [Dylan Laplace Mermoud's website](https://dylanlaplacemermoud.github.io) ([source code](https://github.com/DylanLaplaceMermoud/dylanlaplacemermoud.github.io))
 + [Maarten Goos's website](https://maartengoos.com) ([source code](https://github.com/MaartenGoos/website))
-+ [Aryan Ahadinia's website](https://aryanahadinia.github.io) ([source code](https://github.com/AryanAhadinia/AryanAhadinia.github.io))
 + [Jun Wong's website](https://junwong.org) ([source code](https://github.com/junwong97/junwong97.github.io))
 + [Erling Rennemo Jellum's website](https://erlingrj.github.io) ([source code](https://github.com/erlingrj/erlingrj.github.io))
 + [Yangkeun Yun's website](https://yangkeunyun.github.io) ([source code](https://github.com/yangkeunyun/yangkeunyun.github.io))
-+ [Maghfira Ramadhani's website](https://maghfiraer.github.io) ([source code](https://github.com/maghfiraer/maghfiraer.github.io))
-+ [Ismael Moreno-Martinez's website](https://ismaelmorenomartinez.eu) ([source code](https://github.com/ismaelmorenomartinez/ismaelmorenomartinez.github.io))
 + [Lucas Warwar's website](https://lucaswarwar.github.io) ([source code](https://github.com/lucaswarwar/lucaswarwar.github.io))
 + [Franz Louis Cesista's website](https://leloykun.github.io) ([source code](https://github.com/leloykun/leloykun.github.io))
 + [Gabe Sekeres's website](https://gabesekeres.com) ([source code](https://github.com/gsekeres/hugo_site))
@@ -105,9 +98,13 @@ This repository is licensed under the [MIT License](LICENSE.md).
 + [Arthur Douillard's website](https://arthurdouillard.com)
 + [Benjamin Hattemer's website](https://benjaminhattemer.com)
 + [Kostas Bimpikis's website](https://stanford.edu/~kostasb/)
-+ [Pragathi Praveena's website](https://pragathipraveena.com)
 + [Qiwei He's website](https://www.qiwei-he.com)
 + [Pierre Bardier's website](https://pierrebard.github.io/pierre-bardier/)
 + [Marek Wiewiórka's website](https://marekwiewiorka.org)
 + [Eran Shmuëli's website](https://eranshmueli.com)
 + [Bo Wang's website](https://bowang.finance)
+
+## Related resources
+
++ [latex-cv](https://github.com/pmichaillat/latex-cv) - This LaTeX template produces a minimalist academic CV, which you can post on your website. The CV should be named `cv.pdf` and placed in the `static` folder. It will be accessible from the homepage via a social icon.
++ [latex-paper](https://github.com/pmichaillat/latex-paper) - This LaTeX template produces a minimalist research paper, which you can post on your website. This is the template used to produce the mock papers on the illustrative website: [here](https://pascalmichaillat.org/hugo-website/papers/paper3/paper3.pdf), [here](https://pascalmichaillat.org/hugo-website/papers/paper1/paper1.pdf), and [here](https://pascalmichaillat.org/hugo-website/papers/paper2/paper2.pdf).
